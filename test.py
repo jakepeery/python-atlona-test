@@ -4,13 +4,13 @@ import socket
 from datetime import datetime
 from datetime import timedelta
 
-pollTime = 5    #time in seconds to poll switcher
+pollTime = 2    #time in seconds to poll switcher
 timeout = .5
 
 
 def MakeRequest():
-    host = "127.0.0.1"
-    port = 5000  # socket server port number
+    host = "169.254.9.244"
+    port = 23  # socket server port number
     
     sock = socket.socket()  # instantiate
     sock.settimeout(timeout)
@@ -47,6 +47,14 @@ def MakeRequest():
     except Exception as err:
         output = "ERROR: " + str(err)
         WriteLog(output)
+        
+    try:
+        data = sock.recv(1024).decode()  # receive initialresponse
+        output = "Message Response: " + data
+        WriteLog(output)
+    except Exception as err:
+        output = "ERROR: " + str(err)
+        WriteLog(output)
 
     sock.close()  # close the connection
     
@@ -57,8 +65,9 @@ def MakeRequest():
         output = "Send Message: " + message
         WriteLog(output)
     except Exception as err:
-        output = "Socket should be closed: " + str(err)
+        output = "Socket verified to be closed: " + str(err)
         WriteLog(output)
+    WriteLog("End of Request\r\n\r\n")
 
 def WriteLog(info):
     now = datetime.now()
@@ -76,7 +85,7 @@ if __name__ == '__main__':
         currentTime = datetime.now()
         if currentTime > nextTrigger:
             nextTrigger = currentTime + timedelta(seconds=pollTime)
-            WriteLog("\r\nNew Request #" + str(count))
+            WriteLog("New Request #" + str(count))
             MakeRequest()
             count += 1
         
