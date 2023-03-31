@@ -1,0 +1,1964 @@
+16:24:11.543893: New Request #016:24:11.569956: Initial Response: Welcome to Telnet!
+16:24:11.571895: Send Message: Status16:24:11.602079: Message Response: x1AVx1
+16:24:11.643081: Message Response: x5AVx2
+16:24:11.645439: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:11.646446: End of Request
+
+16:24:13.544699: New Request #116:24:13.571777: Initial Response: Welcome to Telnet!
+16:24:13.574761: Send Message: Status16:24:13.601871: Message Response: x1AVx1
+16:24:13.643986: Message Response: x5AVx2
+16:24:13.646872: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:13.647872: End of Request
+
+16:24:15.544734: New Request #216:24:15.586741: Initial Response: Welcome to Telnet!
+16:24:15.587737: Send Message: Status16:24:15.615976: Message Response: x1AVx1
+16:24:15.655599: Message Response: x5AVx2
+16:24:15.657597: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:15.658598: End of Request
+
+16:24:17.545570: New Request #316:24:17.572575: Initial Response: Welcome to Telnet!
+16:24:17.574572: Send Message: Status16:24:17.603041: Message Response: x1AVx1
+16:24:17.644238: Message Response: x5AVx2
+16:24:17.647159: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:17.648156: End of Request
+
+16:24:19.545645: New Request #416:24:19.571720: Initial Response: Welcome to Telnet!
+16:24:19.574705: Send Message: Status16:24:19.600704: Message Response: x1AVx1
+16:24:19.641714: Message Response: x5AVx2
+16:24:19.643645: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:19.644646: End of Request
+
+16:24:21.546569: New Request #516:24:21.579485: Initial Response: Welcome to Telnet!
+16:24:21.581555: Send Message: Status16:24:21.604807: Message Response: x1AVx1
+16:24:21.646049: Message Response: x5AVx2
+16:24:21.648052: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:21.649050: End of Request
+
+16:24:23.546764: New Request #616:24:23.600255: Initial Response: Welcome to Telnet!
+16:24:23.602928: Send Message: Status16:24:23.623932: Message Response: x1AVx1
+16:24:23.667269: Message Response: x5AVx2
+16:24:23.669207: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:23.670207: End of Request
+
+16:24:25.547501: New Request #716:24:25.570507: Initial Response: Welcome to Telnet!
+16:24:25.573548: Send Message: Status16:24:25.609028: Message Response: x1AVx1
+16:24:25.649997: Message Response: x5AVx2
+16:24:25.653000: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:25.653000: End of Request
+
+16:24:27.548261: New Request #816:24:27.586267: Initial Response: Welcome to Telnet!
+16:24:27.588323: Send Message: Status16:24:27.620751: Message Response: x1AVx1
+16:24:27.660977: Message Response: x5AVx2
+16:24:27.663915: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:27.664915: End of Request
+
+16:24:29.548635: New Request #916:24:29.575635: Initial Response: Welcome to Telnet!
+16:24:29.577635: Send Message: Status16:24:29.600635: Message Response: x1AVx1
+16:24:29.640714: Message Response: x5AVx2
+16:24:29.643636: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:29.644636: End of Request
+
+16:24:31.549223: New Request #1016:24:31.582300: Initial Response: Welcome to Telnet!
+16:24:31.585224: Send Message: Status16:24:31.606231: Message Response: x1AVx1
+16:24:31.647451: Message Response: x5AVx2
+16:24:31.650406: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:31.651437: End of Request
+
+16:24:33.550018: New Request #1116:24:33.582022: Initial Response: Welcome to Telnet!
+16:24:33.584019: Send Message: Status16:24:33.608127: Message Response: x1AVx1
+16:24:33.649125: Message Response: x5AVx2
+16:24:33.652188: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:33.653125: End of Request
+
+16:24:35.550892: New Request #1216:24:35.578966: Initial Response: Welcome to Telnet!
+16:24:35.581906: Send Message: Status16:24:35.603131: Message Response: x1AVx1
+16:24:35.644085: Message Response: x5AVx2
+16:24:35.647081: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:35.648081: End of Request
+
+16:24:37.551546: New Request #1316:24:37.577622: Initial Response: Welcome to Telnet!
+16:24:37.579606: Send Message: Status16:24:37.601622: Message Response: x1AVx1
+16:24:37.642078: Message Response: x5AVx2
+16:24:37.645042: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:37.645978: End of Request
+
+16:24:39.551802: New Request #1416:24:39.578816: Initial Response: Welcome to Telnet!
+16:24:39.581807: Send Message: Status16:24:39.610811: Message Response: x1AVx1
+16:24:39.652134: Message Response: x5AVx2
+16:24:39.655032: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:39.656032: End of Request
+
+16:24:41.552309: New Request #1516:24:41.584822: Initial Response: Welcome to Telnet!
+16:24:41.586822: Send Message: Status16:24:41.610822: Message Response: x1AVx1
+16:24:41.651822: Message Response: x5AVx2
+16:24:41.654828: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:41.655824: End of Request
+
+16:24:43.552635: New Request #1616:24:43.585055: Initial Response: Welcome to Telnet!
+16:24:43.587962: Send Message: Status16:24:43.610040: Message Response: x1AVx1
+16:24:43.650065: Message Response: x5AVx2
+16:24:43.653142: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:43.654061: End of Request
+
+16:24:45.553587: New Request #1716:24:45.582664: Initial Response: Welcome to Telnet!
+16:24:45.584589: Send Message: Status16:24:45.608475: Message Response: x1AVx1
+16:24:45.649599: Message Response: x5AVx2
+16:24:45.652600: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:45.653537: End of Request
+
+16:24:47.554242: New Request #1816:24:47.580243: Initial Response: Welcome to Telnet!
+16:24:47.582244: Send Message: Status16:24:47.612250: Message Response: x1AVx1
+16:24:47.652388: Message Response: x5AVx2
+16:24:47.655383: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:47.656385: End of Request
+
+16:24:49.554520: New Request #1916:24:49.582524: Initial Response: Welcome to Telnet!
+16:24:49.584520: Send Message: Status16:24:49.607603: Message Response: x1AVx1
+16:24:49.648708: Message Response: x5AVx2
+16:24:49.651767: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:49.652707: End of Request
+
+16:24:51.554895: New Request #2016:24:51.590893: Initial Response: Welcome to Telnet!
+16:24:51.592894: Send Message: Status16:24:51.614971: Message Response: x1AVx1
+16:24:51.656892: Message Response: x5AVx2
+16:24:51.659891: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:51.660955: End of Request
+
+16:24:53.555435: New Request #2116:24:53.587438: Initial Response: Welcome to Telnet!
+16:24:53.590436: Send Message: Status16:24:53.612080: Message Response: x1AVx1
+16:24:53.652345: Message Response: x5AVx2
+16:24:53.655401: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:53.657341: End of Request
+
+16:24:55.556040: New Request #2216:24:55.589127: Initial Response: Welcome to Telnet!
+16:24:55.591577: Send Message: Status16:24:55.614555: Message Response: x1AVx1
+16:24:55.655764: Message Response: x5AVx2
+16:24:55.658764: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:55.659764: End of Request
+
+16:24:57.556355: New Request #2316:24:57.589434: Initial Response: Welcome to Telnet!
+16:24:57.592357: Send Message: Status16:24:57.620359: Message Response: x1AVx1
+16:24:57.660361: Message Response: x5AVx2
+16:24:57.663356: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:57.664356: End of Request
+
+16:24:59.557117: New Request #2416:24:59.586120: Initial Response: Welcome to Telnet!
+16:24:59.588177: Send Message: Status16:24:59.609123: Message Response: x1AVx1
+16:24:59.650123: Message Response: x5AVx2
+16:24:59.653119: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:24:59.655121: End of Request
+
+16:25:01.558060: New Request #2516:25:01.584071: Initial Response: Welcome to Telnet!
+16:25:01.586062: Send Message: Status16:25:01.615174: Message Response: x1AVx1
+16:25:01.656172: Message Response: x5AVx2
+16:25:01.659170: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:01.661168: End of Request
+
+16:25:03.558722: New Request #2616:25:03.588799: Initial Response: Welcome to Telnet!
+16:25:03.591786: Send Message: Status16:25:03.618802: Message Response: x1AVx1
+16:25:03.660151: Message Response: x5AVx2
+16:25:03.663215: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:03.664152: End of Request
+
+16:25:05.559270: New Request #2716:25:05.587365: Initial Response: Welcome to Telnet!
+16:25:05.590404: Send Message: Status16:25:05.614823: Message Response: x1AVx1
+16:25:05.656118: Message Response: x5AVx2
+16:25:05.659180: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:05.661118: End of Request
+
+16:25:07.559329: New Request #2816:25:07.585404: Initial Response: Welcome to Telnet!
+16:25:07.588330: Send Message: Status16:25:07.609405: Message Response: x1AVx1
+16:25:07.649206: Message Response: x5AVx2
+16:25:07.652267: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:07.653211: End of Request
+
+16:25:09.559565: New Request #2916:25:09.590644: Initial Response: Welcome to Telnet!
+16:25:09.592640: Send Message: Status16:25:09.620653: Message Response: x1AVx1
+16:25:09.661563: Message Response: x5AVx2
+16:25:09.663565: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:09.665565: End of Request
+
+16:25:11.560198: New Request #3016:25:11.587202: Initial Response: Welcome to Telnet!
+16:25:11.590199: Send Message: Status16:25:11.623203: Message Response: x1AVx1
+16:25:11.664035: Message Response: x5AVx2
+16:25:11.667091: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:11.669029: End of Request
+
+16:25:13.560608: New Request #3116:25:13.593684: Initial Response: Welcome to Telnet!
+16:25:13.596670: Send Message: Status16:25:13.620295: Message Response: x1AVx1
+16:25:13.661825: Message Response: x5AVx2
+16:25:13.664901: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:13.666899: End of Request
+
+16:25:15.560623: New Request #3216:25:15.595157: Initial Response: Welcome to Telnet!
+16:25:15.598153: Send Message: Status16:25:15.620679: Message Response: x1AVx1
+16:25:15.661353: Message Response: x5AVx2
+16:25:15.663359: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:15.665360: End of Request
+
+16:25:17.560749: New Request #3316:25:17.589750: Initial Response: Welcome to Telnet!
+16:25:17.591749: Send Message: Status16:25:17.614848: Message Response: x1AVx1
+16:25:17.658058: Message Response: x5AVx2
+16:25:17.661264: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:17.662781: End of Request
+
+16:25:19.560985: New Request #3416:25:19.586989: Initial Response: Welcome to Telnet!
+16:25:19.589984: Send Message: Status16:25:19.620084: Message Response: x1AVx1
+16:25:19.661702: Message Response: x5AVx2
+16:25:19.664702: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:19.665702: End of Request
+
+16:25:21.561389: New Request #3516:25:21.589390: Initial Response: Welcome to Telnet!
+16:25:21.594390: Send Message: Status16:25:21.620390: Message Response: x1AVx1
+16:25:21.662009: Message Response: x5AVx2
+16:25:21.664570: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:21.666569: End of Request
+
+16:25:23.561676: New Request #3616:25:23.593682: Initial Response: Welcome to Telnet!
+16:25:23.596663: Send Message: Status16:25:23.645779: Message Response: x1AVx1
+16:25:23.687919: Message Response: x5AVx2
+16:25:23.691824: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:23.692882: End of Request
+
+16:25:25.562595: New Request #3716:25:25.587600: Initial Response: Welcome to Telnet!
+16:25:25.590124: Send Message: Status16:25:25.612121: Message Response: x1AVx1
+16:25:25.653212: Message Response: x5AVx2
+16:25:25.656219: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:25.658213: End of Request
+
+16:25:27.562997: New Request #3816:25:27.590004: Initial Response: Welcome to Telnet!
+16:25:27.592997: Send Message: Status16:25:27.614999: Message Response: x1AVx1
+16:25:27.655021: Message Response: x5AVx2
+16:25:27.657933: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:27.659933: End of Request
+
+16:25:29.563329: New Request #3916:25:29.590331: Initial Response: Welcome to Telnet!
+16:25:29.593394: Send Message: Status16:25:29.619336: Message Response: x1AVx1
+16:25:29.659661: Message Response: x5AVx2
+16:25:29.663208: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:29.665210: End of Request
+
+16:25:31.564251: New Request #4016:25:31.591330: Initial Response: Welcome to Telnet!
+16:25:31.594313: Send Message: Status16:25:31.622253: Message Response: x1AVx1
+16:25:31.663330: Message Response: x5AVx2
+16:25:31.666331: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:31.668330: End of Request
+
+16:25:33.564594: New Request #4116:25:33.598598: Initial Response: Welcome to Telnet!
+16:25:33.601595: Send Message: Status16:25:33.623602: Message Response: x1AVx1
+16:25:33.664964: Message Response: x5AVx2
+16:25:33.667873: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:33.669878: End of Request
+
+16:25:35.564739: New Request #4216:25:35.595473: Initial Response: Welcome to Telnet!
+16:25:35.598475: Send Message: Status16:25:35.621145: Message Response: x1AVx1
+16:25:35.662055: Message Response: x5AVx2
+16:25:35.665062: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:35.667124: End of Request
+
+16:25:37.565332: New Request #4316:25:37.597338: Initial Response: Welcome to Telnet!
+16:25:37.600334: Send Message: Status16:25:37.622334: Message Response: x1AVx1
+16:25:37.663956: Message Response: x5AVx2
+16:25:37.666959: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:37.668955: End of Request
+
+16:25:39.565648: New Request #4416:25:39.597185: Initial Response: Welcome to Telnet!
+16:25:39.600194: Send Message: Status16:25:39.622195: Message Response: x1AVx1
+16:25:39.663317: Message Response: x5AVx2
+16:25:39.666298: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:39.668298: End of Request
+
+16:25:41.565868: New Request #4516:25:41.597946: Initial Response: Welcome to Telnet!
+16:25:41.601931: Send Message: Status16:25:41.623946: Message Response: x1AVx1
+16:25:41.664821: Message Response: x5AVx2
+16:25:41.668801: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:41.669759: End of Request
+
+16:25:43.566340: New Request #4616:25:43.599422: Initial Response: Welcome to Telnet!
+16:25:43.602478: Send Message: Status16:25:43.623568: Message Response: x1AVx1
+16:25:43.664493: Message Response: x5AVx2
+16:25:43.668439: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:43.670407: End of Request
+
+16:25:45.566952: New Request #4716:25:45.601180: Initial Response: Welcome to Telnet!
+16:25:45.605104: Send Message: Status16:25:45.627302: Message Response: x1AVx1
+16:25:45.667919: Message Response: x5AVx2
+16:25:45.670919: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:45.672923: End of Request
+
+16:25:47.567256: New Request #4816:25:47.594334: Initial Response: Welcome to Telnet!
+16:25:47.598259: Send Message: Status16:25:47.620625: Message Response: x1AVx1
+16:25:47.660728: Message Response: x5AVx2
+16:25:47.664313: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:47.666311: End of Request
+
+16:25:49.568140: New Request #4916:25:49.596241: Initial Response: Welcome to Telnet!
+16:25:49.599204: Send Message: Status16:25:49.620277: Message Response: x1AVx1
+16:25:49.660534: Message Response: x5AVx2
+16:25:49.664583: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:49.666581: End of Request
+
+16:25:51.568428: New Request #5016:25:51.626445: Initial Response: Welcome to Telnet!
+16:25:51.629446: Send Message: Status16:25:51.651384: Message Response: x1AVx1
+16:25:51.692117: Message Response: x5AVx2
+16:25:51.696038: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:51.698038: End of Request
+
+16:25:53.568675: New Request #5116:25:53.602754: Initial Response: Welcome to Telnet!
+16:25:53.605738: Send Message: Status16:25:53.625678: Message Response: x1AVx1
+16:25:53.666920: Message Response: x5AVx2
+16:25:53.671190: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:53.673189: End of Request
+
+16:25:55.569154: New Request #5216:25:55.602701: Initial Response: Welcome to Telnet!
+16:25:55.605697: Send Message: Status16:25:55.625992: Message Response: x1AVx1
+16:25:55.667871: Message Response: x5AVx2
+16:25:55.671871: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:55.673872: End of Request
+
+16:25:57.570033: New Request #5316:25:57.598112: Initial Response: Welcome to Telnet!
+16:25:57.602097: Send Message: Status16:25:57.621098: Message Response: x1AVx1
+16:25:57.662966: Message Response: x5AVx2
+16:25:57.666966: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:57.668968: End of Request
+
+16:25:59.571031: New Request #5416:25:59.596036: Initial Response: Welcome to Telnet!
+16:25:59.599031: Send Message: Status16:25:59.628110: Message Response: x1AVx1
+16:25:59.668196: Message Response: x5AVx2
+16:25:59.672273: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:25:59.674280: End of Request
+
+16:26:01.571396: New Request #5516:26:01.604471: Initial Response: Welcome to Telnet!
+16:26:01.608458: Send Message: Status16:26:01.629330: Message Response: x1AVx1
+16:26:01.669954: Message Response: x5AVx2
+16:26:01.673954: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:01.675954: End of Request
+
+16:26:03.571493: New Request #5616:26:03.605570: Initial Response: Welcome to Telnet!
+16:26:03.609555: Send Message: Status16:26:03.631920: Message Response: x1AVx1
+16:26:03.672182: Message Response: x5AVx2
+16:26:03.677096: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:03.679154: End of Request
+
+16:26:05.572386: New Request #5716:26:05.600700: Initial Response: Welcome to Telnet!
+16:26:05.603668: Send Message: Status16:26:05.623772: Message Response: x1AVx1
+16:26:05.663858: Message Response: x5AVx2
+16:26:05.667859: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:05.669856: End of Request
+
+16:26:07.572431: New Request #5816:26:07.599432: Initial Response: Welcome to Telnet!
+16:26:07.602432: Send Message: Status16:26:07.630432: Message Response: x1AVx1
+16:26:07.671058: Message Response: x5AVx2
+16:26:07.675045: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:07.678043: End of Request
+
+16:26:09.573084: New Request #5916:26:09.601088: Initial Response: Welcome to Telnet!
+16:26:09.605084: Send Message: Status16:26:09.631805: Message Response: x1AVx1
+16:26:09.672360: Message Response: x5AVx2
+16:26:09.676335: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:09.678335: End of Request
+
+16:26:11.573227: New Request #6016:26:11.608306: Initial Response: Welcome to Telnet!
+16:26:11.612291: Send Message: Status16:26:11.632457: Message Response: x1AVx1
+16:26:11.673030: Message Response: x5AVx2
+16:26:11.677031: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:11.679029: End of Request
+
+16:26:13.573365: New Request #6116:26:13.606365: Initial Response: Welcome to Telnet!
+16:26:13.610426: Send Message: Status16:26:13.630366: Message Response: x1AVx1
+16:26:13.671203: Message Response: x5AVx2
+16:26:13.675102: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:13.677164: End of Request
+
+16:26:15.573375: New Request #6216:26:15.608882: Initial Response: Welcome to Telnet!
+16:26:15.612142: Send Message: Status16:26:15.632071: Message Response: x1AVx1
+16:26:15.673664: Message Response: x5AVx2
+16:26:15.677664: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:15.679668: End of Request
+
+16:26:17.574218: New Request #6316:26:17.609296: Initial Response: Welcome to Telnet!
+16:26:17.613287: Send Message: Status16:26:17.640957: Message Response: x1AVx1
+16:26:17.681363: Message Response: x5AVx2
+16:26:17.685432: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:17.688442: End of Request
+
+16:26:19.574975: New Request #6416:26:19.603052: Initial Response: Welcome to Telnet!
+16:26:19.607040: Send Message: Status16:26:19.635079: Message Response: x1AVx1
+16:26:19.676189: Message Response: x5AVx2
+16:26:19.680159: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:19.682158: End of Request
+
+16:26:21.575469: New Request #6516:26:21.610078: Initial Response: Welcome to Telnet!
+16:26:21.614063: Send Message: Status16:26:21.634260: Message Response: x1AVx1
+16:26:21.674727: Message Response: x5AVx2
+16:26:21.678721: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:21.681659: End of Request
+
+16:26:23.575969: New Request #6616:26:23.607045: Initial Response: Welcome to Telnet!
+16:26:23.610974: Send Message: Status16:26:23.630977: Message Response: x1AVx1
+16:26:23.672179: Message Response: x5AVx2
+16:26:23.676079: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:23.679143: End of Request
+
+16:26:25.576458: New Request #6716:26:25.611080: Initial Response: Welcome to Telnet!
+16:26:25.615531: Send Message: Status16:26:25.663743: Message Response: x1AVx1
+16:26:25.703916: Message Response: x5AVx2
+16:26:25.707854: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:25.710853: End of Request
+
+16:26:27.577190: New Request #6816:26:27.605268: Initial Response: Welcome to Telnet!
+16:26:27.609189: Send Message: Status16:26:27.637289: Message Response: x1AVx1
+16:26:27.677392: Message Response: x5AVx2
+16:26:27.681392: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:27.684453: End of Request
+
+16:26:29.577305: New Request #6916:26:29.604331: Initial Response: Welcome to Telnet!
+16:26:29.608389: Send Message: Status16:26:29.634805: Message Response: x1AVx1
+16:26:29.676959: Message Response: x5AVx2
+16:26:29.680867: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:29.683932: End of Request
+
+16:26:31.577466: New Request #7016:26:31.602542: Initial Response: Welcome to Telnet!
+16:26:31.606529: Send Message: Status16:26:31.626543: Message Response: x1AVx1
+16:26:31.667118: Message Response: x5AVx2
+16:26:31.671119: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:31.674057: End of Request
+
+16:26:33.578083: New Request #7116:26:33.612162: Initial Response: Welcome to Telnet!
+16:26:33.616150: Send Message: Status16:26:33.644312: Message Response: x1AVx1
+16:26:33.684579: Message Response: x5AVx2
+16:26:33.689638: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:33.692619: End of Request
+
+16:26:35.578955: New Request #7216:26:35.614087: Initial Response: Welcome to Telnet!
+16:26:35.618150: Send Message: Status16:26:35.648023: Message Response: x1AVx1
+16:26:35.689561: Message Response: x5AVx2
+16:26:35.693561: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:35.696622: End of Request
+
+16:26:37.579384: New Request #7316:26:37.616409: Initial Response: Welcome to Telnet!
+16:26:37.620384: Send Message: Status16:26:37.643099: Message Response: x1AVx1
+16:26:37.682347: Message Response: x5AVx2
+16:26:37.686302: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:37.689301: End of Request
+
+16:26:39.579576: New Request #7416:26:39.607655: Initial Response: Welcome to Telnet!
+16:26:39.611578: Send Message: Status16:26:39.640718: Message Response: x1AVx1
+16:26:39.682197: Message Response: x5AVx2
+16:26:39.687106: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:39.689168: End of Request
+
+16:26:41.580512: New Request #7516:26:41.610218: Initial Response: Welcome to Telnet!
+16:26:41.614119: Send Message: Status16:26:41.634354: Message Response: x1AVx1
+16:26:41.674575: Message Response: x5AVx2
+16:26:41.679488: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:41.682551: End of Request
+
+16:26:43.581388: New Request #7616:26:43.613021: Initial Response: Welcome to Telnet!
+16:26:43.616093: Send Message: Status16:26:43.636280: Message Response: x1AVx1
+16:26:43.677804: Message Response: x5AVx2
+16:26:43.682728: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:43.684772: End of Request
+
+16:26:45.581808: New Request #7716:26:45.627512: Initial Response: Welcome to Telnet!
+16:26:45.630511: Send Message: Status16:26:45.659575: Message Response: x1AVx1
+16:26:45.700208: Message Response: x5AVx2
+16:26:45.704208: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:45.707147: End of Request
+
+16:26:47.582327: New Request #7816:26:47.616330: Initial Response: Welcome to Telnet!
+16:26:47.620328: Send Message: Status16:26:47.640012: Message Response: x1AVx1
+16:26:47.680600: Message Response: x5AVx2
+16:26:47.684658: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:47.687660: End of Request
+
+16:26:49.582906: New Request #7916:26:49.615007: Initial Response: Welcome to Telnet!
+16:26:49.619019: Send Message: Status16:26:49.642855: Message Response: x1AVx1
+16:26:49.683309: Message Response: x5AVx2
+16:26:49.687221: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:49.690283: End of Request
+
+16:26:51.583728: New Request #8016:26:51.611804: Initial Response: Welcome to Telnet!
+16:26:51.615727: Send Message: Status16:26:51.643726: Message Response: x1AVx1
+16:26:51.684293: Message Response: x5AVx2
+16:26:51.688296: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:51.691294: End of Request
+
+16:26:53.584025: New Request #8116:26:53.617037: Initial Response: Welcome to Telnet!
+16:26:53.621037: Send Message: Status16:26:53.641552: Message Response: x1AVx1
+16:26:53.682657: Message Response: x5AVx2
+16:26:53.687717: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:53.690719: End of Request
+
+16:26:55.584801: New Request #8216:26:55.619041: Initial Response: Welcome to Telnet!
+16:26:55.623041: Send Message: Status16:26:55.644192: Message Response: x1AVx1
+16:26:55.684837: Message Response: x5AVx2
+16:26:55.688837: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:55.691837: End of Request
+
+16:26:57.585416: New Request #8316:26:57.614480: Initial Response: Welcome to Telnet!
+16:26:57.618478: Send Message: Status16:26:57.637808: Message Response: x1AVx1
+16:26:57.678523: Message Response: x5AVx2
+16:26:57.683520: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:57.685519: End of Request
+
+16:26:59.585608: New Request #8416:26:59.614701: Initial Response: Welcome to Telnet!
+16:26:59.619611: Send Message: Status16:26:59.644690: Message Response: x1AVx1
+16:26:59.685652: Message Response: x5AVx2
+16:26:59.690593: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:26:59.692653: End of Request
+
+16:27:01.586207: New Request #8516:27:01.615220: Initial Response: Welcome to Telnet!
+16:27:01.620203: Send Message: Status16:27:01.646286: Message Response: x1AVx1
+16:27:01.685394: Message Response: x5AVx2
+16:27:01.690333: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:01.692395: End of Request
+
+16:27:03.586885: New Request #8616:27:03.619846: Initial Response: Welcome to Telnet!
+16:27:03.623906: Send Message: Status16:27:03.643937: Message Response: x1AVx1
+16:27:03.684466: Message Response: x5AVx2
+16:27:03.689522: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:03.692460: End of Request
+
+16:27:05.587263: New Request #8716:27:05.622878: Initial Response: Welcome to Telnet!
+16:27:05.627107: Send Message: Status16:27:05.647198: Message Response: x1AVx1
+16:27:05.686730: Message Response: x5AVx2
+16:27:05.691672: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:05.693670: End of Request
+
+16:27:07.587916: New Request #8816:27:07.616186: Initial Response: Welcome to Telnet!
+16:27:07.620155: Send Message: Status16:27:07.640984: Message Response: x1AVx1
+16:27:07.681595: Message Response: x5AVx2
+16:27:07.686595: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:07.689633: End of Request
+
+16:27:09.588687: New Request #8916:27:09.616774: Initial Response: Welcome to Telnet!
+16:27:09.620752: Send Message: Status16:27:09.642211: Message Response: x1AVx1
+16:27:09.683644: Message Response: x5AVx2
+16:27:09.688609: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:09.691609: End of Request
+
+16:27:11.589273: New Request #9016:27:11.621277: Initial Response: Welcome to Telnet!
+16:27:11.625273: Send Message: Status16:27:11.650274: Message Response: x1AVx1
+16:27:11.690910: Message Response: x5AVx2
+16:27:11.694911: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:11.697911: End of Request
+
+16:27:13.589952: New Request #9116:27:13.617957: Initial Response: Welcome to Telnet!
+16:27:13.621952: Send Message: Status16:27:13.668070: Message Response: x1AVx1
+16:27:13.708662: Message Response: x5AVx2
+16:27:13.712724: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:13.715724: End of Request
+
+16:27:15.590366: New Request #9216:27:15.619641: Initial Response: Welcome to Telnet!
+16:27:15.623086: Send Message: Status16:27:15.674689: Message Response: x1AVx1
+16:27:15.716689: Message Response: x5AVx2
+16:27:15.721690: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:15.723689: End of Request
+
+16:27:17.590488: New Request #9316:27:17.618573: Initial Response: Welcome to Telnet!
+16:27:17.622489: Send Message: Status16:27:17.649291: Message Response: x1AVx1
+16:27:17.689520: Message Response: x5AVx2
+16:27:17.694460: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:17.697521: End of Request
+
+16:27:19.590645: New Request #9416:27:19.622645: Initial Response: Welcome to Telnet!
+16:27:19.625644: Send Message: Status16:27:19.647644: Message Response: x1AVx1
+16:27:19.688177: Message Response: x5AVx2
+16:27:19.692177: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:19.695177: End of Request
+
+16:27:21.591173: New Request #9516:27:21.624177: Initial Response: Welcome to Telnet!
+16:27:21.628174: Send Message: Status16:27:21.647265: Message Response: x1AVx1
+16:27:21.688748: Message Response: x5AVx2
+16:27:21.693710: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:21.696750: End of Request
+
+16:27:23.591222: New Request #9616:27:23.619222: Initial Response: Welcome to Telnet!
+16:27:23.623222: Send Message: Status16:27:23.644171: Message Response: x1AVx1
+16:27:23.684381: Message Response: x5AVx2
+16:27:23.689319: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:23.692319: End of Request
+
+16:27:25.591389: New Request #9716:27:25.626984: Initial Response: Welcome to Telnet!
+16:27:25.630986: Send Message: Status16:27:25.656988: Message Response: x1AVx1
+16:27:25.697538: Message Response: x5AVx2
+16:27:25.702538: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:25.704535: End of Request
+
+16:27:27.592186: New Request #9816:27:27.626207: Initial Response: Welcome to Telnet!
+16:27:27.630196: Send Message: Status16:27:27.651194: Message Response: x1AVx1
+16:27:27.692250: Message Response: x5AVx2
+16:27:27.697252: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:27.700248: End of Request
+
+16:27:29.592465: New Request #9916:27:29.626552: Initial Response: Welcome to Telnet!
+16:27:29.631528: Send Message: Status16:27:29.651816: Message Response: x1AVx1
+16:27:29.692033: Message Response: x5AVx2
+16:27:29.696091: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:29.699092: End of Request
+
+16:27:31.593427: New Request #10016:27:31.622434: Initial Response: Welcome to Telnet!
+16:27:31.626491: Send Message: Status16:27:31.646428: Message Response: x1AVx1
+16:27:31.687082: Message Response: x5AVx2
+16:27:31.692135: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:31.695072: End of Request
+
+16:27:33.593562: New Request #10116:27:33.621736: Initial Response: Welcome to Telnet!
+16:27:33.625723: Send Message: Status16:27:33.651834: Message Response: x1AVx1
+16:27:33.691409: Message Response: x5AVx2
+16:27:33.696349: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:33.699348: End of Request
+
+16:27:35.593611: New Request #10216:27:35.625306: Initial Response: Welcome to Telnet!
+16:27:35.629306: Send Message: Status16:27:35.655306: Message Response: x1AVx1
+16:27:35.696850: Message Response: x5AVx2
+16:27:35.700850: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:35.703849: End of Request
+
+16:27:37.593721: New Request #10316:27:37.627798: Initial Response: Welcome to Telnet!
+16:27:37.631785: Send Message: Status16:27:37.650727: Message Response: x1AVx1
+16:27:37.690971: Message Response: x5AVx2
+16:27:37.695908: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:37.697972: End of Request
+
+16:27:39.594695: New Request #10416:27:39.630692: Initial Response: Welcome to Telnet!
+16:27:39.633691: Send Message: Status16:27:39.670228: Message Response: x1AVx1
+16:27:39.711229: Message Response: x5AVx2
+16:27:39.721228: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:39.724229: End of Request
+
+16:27:41.595085: New Request #10516:27:41.629643: Initial Response: Welcome to Telnet!
+16:27:41.633638: Send Message: Status16:27:41.653637: Message Response: x1AVx1
+16:27:41.693822: Message Response: x5AVx2
+16:27:41.697823: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:41.700823: End of Request
+
+16:27:43.595776: New Request #10616:27:43.631854: Initial Response: Welcome to Telnet!
+16:27:43.636838: Send Message: Status16:27:43.655872: Message Response: x1AVx1
+16:27:43.697115: Message Response: x5AVx2
+16:27:43.701173: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:43.704049: End of Request
+
+16:27:45.596735: New Request #10716:27:45.625561: Initial Response: Welcome to Telnet!
+16:27:45.629562: Send Message: Status16:27:45.649562: Message Response: x1AVx1
+16:27:45.690107: Message Response: x5AVx2
+16:27:45.694105: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:45.697105: End of Request
+
+16:27:47.597156: New Request #10816:27:47.626234: Initial Response: Welcome to Telnet!
+16:27:47.630222: Send Message: Status16:27:47.656164: Message Response: x1AVx1
+16:27:47.697534: Message Response: x5AVx2
+16:27:47.702534: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:47.705550: End of Request
+
+16:27:49.597245: New Request #10916:27:49.629248: Initial Response: Welcome to Telnet!
+16:27:49.633245: Send Message: Status16:27:49.652411: Message Response: x1AVx1
+16:27:49.693776: Message Response: x5AVx2
+16:27:49.698778: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:49.701775: End of Request
+
+16:27:51.597695: New Request #11016:27:51.627773: Initial Response: Welcome to Telnet!
+16:27:51.631758: Send Message: Status16:27:51.653695: Message Response: x1AVx1
+16:27:51.694291: Message Response: x5AVx2
+16:27:51.698291: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:51.701229: End of Request
+
+16:27:53.598361: New Request #11116:27:53.625438: Initial Response: Welcome to Telnet!
+16:27:53.629423: Send Message: Status16:27:53.650152: Message Response: x1AVx1
+16:27:53.689697: Message Response: x5AVx2
+16:27:53.694628: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:53.696678: End of Request
+
+16:27:55.599134: New Request #11216:27:55.626774: Initial Response: Welcome to Telnet!
+16:27:55.630770: Send Message: Status16:27:55.657775: Message Response: x1AVx1
+16:27:55.700337: Message Response: x5AVx2
+16:27:55.704337: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:55.708338: End of Request
+
+16:27:57.599899: New Request #11316:27:57.632054: Initial Response: Welcome to Telnet!
+16:27:57.636040: Send Message: Status16:27:57.656403: Message Response: x1AVx1
+16:27:57.697602: Message Response: x5AVx2
+16:27:57.702606: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:57.704600: End of Request
+
+16:27:59.600087: New Request #11416:27:59.626091: Initial Response: Welcome to Telnet!
+16:27:59.630087: Send Message: Status16:27:59.658091: Message Response: x1AVx1
+16:27:59.698909: Message Response: x5AVx2
+16:27:59.703822: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:27:59.705820: End of Request
+
+16:28:01.600954: New Request #11516:28:01.632033: Initial Response: Welcome to Telnet!
+16:28:01.636016: Send Message: Status16:28:01.662560: Message Response: x1AVx1
+16:28:01.702574: Message Response: x5AVx2
+16:28:01.707632: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:01.710634: End of Request
+
+16:28:03.600966: New Request #11616:28:03.630044: Initial Response: Welcome to Telnet!
+16:28:03.634031: Send Message: Status16:28:03.658214: Message Response: x1AVx1
+16:28:03.699208: Message Response: x5AVx2
+16:28:03.704208: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:03.706207: End of Request
+
+16:28:05.601334: New Request #11716:28:05.628563: Initial Response: Welcome to Telnet!
+16:28:05.632561: Send Message: Status16:28:05.681175: Message Response: x1AVx1
+16:28:05.722174: Message Response: x5AVx2
+16:28:05.726113: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:05.729111: End of Request
+
+16:28:07.602113: New Request #11816:28:07.659366: Initial Response: Welcome to Telnet!
+16:28:07.663639: Send Message: Status16:28:07.687298: Message Response: x1AVx1
+16:28:07.728810: Message Response: x5AVx2
+16:28:07.733810: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:07.735873: End of Request
+
+16:28:09.603074: New Request #11916:28:09.630153: Initial Response: Welcome to Telnet!
+16:28:09.634074: Send Message: Status16:28:09.659999: Message Response: x1AVx1
+16:28:09.701259: Message Response: x5AVx2
+16:28:09.705221: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:09.708223: End of Request
+
+16:28:11.604037: New Request #12016:28:11.639115: Initial Response: Welcome to Telnet!
+16:28:11.643102: Send Message: Status16:28:11.662101: Message Response: x1AVx1
+16:28:11.703549: Message Response: x5AVx2
+16:28:11.708524: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:11.711525: End of Request
+
+16:28:13.604797: New Request #12116:28:13.634875: Initial Response: Welcome to Telnet!
+16:28:13.638860: Send Message: Status16:28:13.665801: Message Response: x1AVx1
+16:28:13.706332: Message Response: x5AVx2
+16:28:13.711413: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:13.714407: End of Request
+
+16:28:15.605235: New Request #12216:28:15.632568: Initial Response: Welcome to Telnet!
+16:28:15.636567: Send Message: Status16:28:15.666626: Message Response: x1AVx1
+16:28:15.706568: Message Response: x5AVx2
+16:28:15.713569: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:15.716568: End of Request
+
+16:28:17.605473: New Request #12316:28:17.638475: Initial Response: Welcome to Telnet!
+16:28:17.642537: Send Message: Status16:28:17.664478: Message Response: x1AVx1
+16:28:17.705251: Message Response: x5AVx2
+16:28:17.710215: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:17.713215: End of Request
+
+16:28:19.605689: New Request #12416:28:19.633766: Initial Response: Welcome to Telnet!
+16:28:19.638753: Send Message: Status16:28:19.657752: Message Response: x1AVx1
+16:28:19.699143: Message Response: x5AVx2
+16:28:19.704212: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:19.706197: End of Request
+
+16:28:21.606451: New Request #12516:28:21.641539: Initial Response: Welcome to Telnet!
+16:28:21.645520: Send Message: Status16:28:21.666053: Message Response: x1AVx1
+16:28:21.705256: Message Response: x5AVx2
+16:28:21.710215: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:21.713155: End of Request
+
+16:28:23.606665: New Request #12616:28:23.642742: Initial Response: Welcome to Telnet!
+16:28:23.646728: Send Message: Status16:28:23.666727: Message Response: x1AVx1
+16:28:23.707011: Message Response: x5AVx2
+16:28:23.711919: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:23.714988: End of Request
+
+16:28:25.607056: New Request #12716:28:25.637452: Initial Response: Welcome to Telnet!
+16:28:25.641451: Send Message: Status16:28:25.660455: Message Response: x1AVx1
+16:28:25.702451: Message Response: x5AVx2
+16:28:25.706451: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:25.709450: End of Request
+
+16:28:27.607383: New Request #12816:28:27.636470: Initial Response: Welcome to Telnet!
+16:28:27.640446: Send Message: Status16:28:27.666386: Message Response: x1AVx1
+16:28:27.706577: Message Response: x5AVx2
+16:28:27.711490: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:27.714551: End of Request
+
+16:28:29.607936: New Request #12916:28:29.636017: Initial Response: Welcome to Telnet!
+16:28:29.640001: Send Message: Status16:28:29.666390: Message Response: x1AVx1
+16:28:29.707142: Message Response: x5AVx2
+16:28:29.712156: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:29.715217: End of Request
+
+16:28:31.608639: New Request #13016:28:31.642638: Initial Response: Welcome to Telnet!
+16:28:31.645638: Send Message: Status16:28:31.666638: Message Response: x1AVx1
+16:28:31.706716: Message Response: x5AVx2
+16:28:31.711639: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:31.713639: End of Request
+
+16:28:33.609387: New Request #13116:28:33.638389: Initial Response: Welcome to Telnet!
+16:28:33.642391: Send Message: Status16:28:33.665411: Message Response: x1AVx1
+16:28:33.705477: Message Response: x5AVx2
+16:28:33.710454: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:33.713388: End of Request
+
+16:28:35.609446: New Request #13216:28:35.662119: Initial Response: Welcome to Telnet!
+16:28:35.666122: Send Message: Status16:28:35.710126: Message Response: x1AVx1
+16:28:35.751181: Message Response: x5AVx2
+16:28:35.755118: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:35.757726: End of Request
+
+16:28:37.610189: New Request #13316:28:37.646267: Initial Response: Welcome to Telnet!
+16:28:37.651189: Send Message: Status16:28:37.671001: Message Response: x1AVx1
+16:28:37.712164: Message Response: x5AVx2
+16:28:37.717223: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:37.720228: End of Request
+
+16:28:39.610682: New Request #13416:28:39.646778: Initial Response: Welcome to Telnet!
+16:28:39.650702: Send Message: Status16:28:39.671049: Message Response: x1AVx1
+16:28:39.710922: Message Response: x5AVx2
+16:28:39.715864: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:39.718924: End of Request
+
+16:28:41.610751: New Request #13516:28:41.639829: Initial Response: Welcome to Telnet!
+16:28:41.643813: Send Message: Status16:28:41.665828: Message Response: x1AVx1
+16:28:41.705918: Message Response: x5AVx2
+16:28:41.710975: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:41.713916: End of Request
+
+16:28:43.610802: New Request #13616:28:43.638880: Initial Response: Welcome to Telnet!
+16:28:43.642864: Send Message: Status16:28:43.661879: Message Response: x1AVx1
+16:28:43.703108: Message Response: x5AVx2
+16:28:43.707620: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:43.710621: End of Request
+
+16:28:45.610818: New Request #13716:28:45.643290: Initial Response: Welcome to Telnet!
+16:28:45.646290: Send Message: Status16:28:45.672294: Message Response: x1AVx1
+16:28:45.712308: Message Response: x5AVx2
+16:28:45.716309: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:45.719308: End of Request
+
+16:28:47.611078: New Request #13816:28:47.646158: Initial Response: Welcome to Telnet!
+16:28:47.651079: Send Message: Status16:28:47.669171: Message Response: x1AVx1
+16:28:47.709747: Message Response: x5AVx2
+16:28:47.714723: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:47.717723: End of Request
+
+16:28:49.611578: New Request #13916:28:49.646656: Initial Response: Welcome to Telnet!
+16:28:49.650640: Send Message: Status16:28:49.671053: Message Response: x1AVx1
+16:28:49.710956: Message Response: x5AVx2
+16:28:49.715887: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:49.717949: End of Request
+
+16:28:51.611800: New Request #14016:28:51.639799: Initial Response: Welcome to Telnet!
+16:28:51.642799: Send Message: Status16:28:51.670801: Message Response: x1AVx1
+16:28:51.710801: Message Response: x5AVx2
+16:28:51.714860: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:51.717801: End of Request
+
+16:28:53.611842: New Request #14116:28:53.639359: Initial Response: Welcome to Telnet!
+16:28:53.643419: Send Message: Status16:28:53.668749: Message Response: x1AVx1
+16:28:53.708551: Message Response: x5AVx2
+16:28:53.712560: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:53.716561: End of Request
+
+16:28:55.612163: New Request #14216:28:55.640161: Initial Response: Welcome to Telnet!
+16:28:55.644164: Send Message: Status16:28:55.671162: Message Response: x1AVx1
+16:28:55.713163: Message Response: x5AVx2
+16:28:55.718164: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:55.721162: End of Request
+
+16:28:57.612816: New Request #14316:28:57.642881: Initial Response: Welcome to Telnet!
+16:28:57.646879: Send Message: Status16:28:57.673218: Message Response: x1AVx1
+16:28:57.714882: Message Response: x5AVx2
+16:28:57.719788: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:57.722788: End of Request
+
+16:28:59.613270: New Request #14416:28:59.641348: Initial Response: Welcome to Telnet!
+16:28:59.645335: Send Message: Status16:28:59.672861: Message Response: x1AVx1
+16:28:59.713166: Message Response: x5AVx2
+16:28:59.718161: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:28:59.721162: End of Request
+
+16:29:01.614221: New Request #14516:29:01.643186: Initial Response: Welcome to Telnet!
+16:29:01.647182: Send Message: Status16:29:01.673445: Message Response: x1AVx1
+16:29:01.713527: Message Response: x5AVx2
+16:29:01.718444: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:01.721443: End of Request
+
+16:29:03.615217: New Request #14616:29:03.671218: Initial Response: Welcome to Telnet!
+16:29:03.676282: Send Message: Status16:29:03.698478: Message Response: x1AVx1
+16:29:03.739704: Message Response: x5AVx2
+16:29:03.743623: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:03.746620: End of Request
+
+16:29:05.615719: New Request #14716:29:05.650543: Initial Response: Welcome to Telnet!
+16:29:05.654544: Send Message: Status16:29:05.707794: Message Response: x1AVx1
+16:29:05.748779: Message Response: x5AVx2
+16:29:05.752964: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:05.755477: End of Request
+
+16:29:07.616224: New Request #14816:29:07.645300: Initial Response: Welcome to Telnet!
+16:29:07.649225: Send Message: Status16:29:07.676778: Message Response: x1AVx1
+16:29:07.717844: Message Response: x5AVx2
+16:29:07.721778: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:07.724778: End of Request
+
+16:29:09.617091: New Request #14916:29:09.652093: Initial Response: Welcome to Telnet!
+16:29:09.657155: Send Message: Status16:29:09.676232: Message Response: x1AVx1
+16:29:09.717276: Message Response: x5AVx2
+16:29:09.722338: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:09.725340: End of Request
+
+16:29:11.617709: New Request #15016:29:11.653708: Initial Response: Welcome to Telnet!
+16:29:11.657708: Send Message: Status16:29:11.677252: Message Response: x1AVx1
+16:29:11.720312: Message Response: x5AVx2
+16:29:11.724313: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:11.727251: End of Request
+
+16:29:13.618079: New Request #15116:29:13.647152: Initial Response: Welcome to Telnet!
+16:29:13.651075: Send Message: Status16:29:13.671162: Message Response: x1AVx1
+16:29:13.712177: Message Response: x5AVx2
+16:29:13.717177: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:13.720242: End of Request
+
+16:29:15.618585: New Request #15216:29:15.643809: Initial Response: Welcome to Telnet!
+16:29:15.647809: Send Message: Status16:29:15.667342: Message Response: x1AVx1
+16:29:15.707417: Message Response: x5AVx2
+16:29:15.713413: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:15.716414: End of Request
+
+16:29:17.619570: New Request #15316:29:17.646571: Initial Response: Welcome to Telnet!
+16:29:17.650570: Send Message: Status16:29:17.678317: Message Response: x1AVx1
+16:29:17.718699: Message Response: x5AVx2
+16:29:17.723723: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:17.726637: End of Request
+
+16:29:19.620470: New Request #15416:29:19.651477: Initial Response: Welcome to Telnet!
+16:29:19.655533: Send Message: Status16:29:19.678406: Message Response: x1AVx1
+16:29:19.719029: Message Response: x5AVx2
+16:29:19.724030: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:19.727029: End of Request
+
+16:29:21.621419: New Request #15516:29:21.650176: Initial Response: Welcome to Telnet!
+16:29:21.654234: Send Message: Status16:29:21.680384: Message Response: x1AVx1
+16:29:21.720759: Message Response: x5AVx2
+16:29:21.724818: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:21.727818: End of Request
+
+16:29:23.621741: New Request #15616:29:23.650800: Initial Response: Welcome to Telnet!
+16:29:23.654741: Send Message: Status16:29:23.680813: Message Response: x1AVx1
+16:29:23.722269: Message Response: x5AVx2
+16:29:23.727208: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:23.730271: End of Request
+
+16:29:25.621888: New Request #15716:29:25.653674: Initial Response: Welcome to Telnet!
+16:29:25.657675: Send Message: Status16:29:25.678213: Message Response: x1AVx1
+16:29:25.719215: Message Response: x5AVx2
+16:29:25.723213: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:25.726212: End of Request
+
+16:29:27.622090: New Request #15816:29:27.651100: Initial Response: Welcome to Telnet!
+16:29:27.655157: Send Message: Status16:29:27.681153: Message Response: x1AVx1
+16:29:27.721417: Message Response: x5AVx2
+16:29:27.726358: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:27.729352: End of Request
+
+16:29:29.622602: New Request #15916:29:29.664539: Initial Response: Welcome to Telnet!
+16:29:29.668522: Send Message: Status16:29:29.692380: Message Response: x1AVx1
+16:29:29.732926: Message Response: x5AVx2
+16:29:29.737940: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:29.740938: End of Request
+
+16:29:31.623515: New Request #16016:29:31.663116: Initial Response: Welcome to Telnet!
+16:29:31.667110: Send Message: Status16:29:31.687176: Message Response: x1AVx1
+16:29:31.728876: Message Response: x5AVx2
+16:29:31.733877: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:31.735939: End of Request
+
+16:29:33.624120: New Request #16116:29:33.654123: Initial Response: Welcome to Telnet!
+16:29:33.658119: Send Message: Status16:29:33.691687: Message Response: x1AVx1
+16:29:33.731868: Message Response: x5AVx2
+16:29:33.736376: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:33.738374: End of Request
+
+16:29:35.624603: New Request #16216:29:35.653602: Initial Response: Welcome to Telnet!
+16:29:35.657608: Send Message: Status16:29:35.710685: Message Response: x1AVx1
+16:29:35.752291: Message Response: x5AVx2
+16:29:35.756291: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:35.759290: End of Request
+
+16:29:37.625465: New Request #16316:29:37.652652: Initial Response: Welcome to Telnet!
+16:29:37.656632: Send Message: Status16:29:37.683310: Message Response: x1AVx1
+16:29:37.723627: Message Response: x5AVx2
+16:29:37.728603: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:37.731602: End of Request
+
+16:29:39.625772: New Request #16416:29:39.653885: Initial Response: Welcome to Telnet!
+16:29:39.657869: Send Message: Status16:29:39.685561: Message Response: x1AVx1
+16:29:39.725560: Message Response: x5AVx2
+16:29:39.730496: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:39.733496: End of Request
+
+16:29:41.626574: New Request #16516:29:41.654392: Initial Response: Welcome to Telnet!
+16:29:41.657382: Send Message: Status16:29:41.685707: Message Response: x1AVx1
+16:29:41.726217: Message Response: x5AVx2
+16:29:41.730214: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:41.732214: End of Request
+
+16:29:43.627144: New Request #16616:29:43.658876: Initial Response: Welcome to Telnet!
+16:29:43.663544: Send Message: Status16:29:43.683810: Message Response: x1AVx1
+16:29:43.724880: Message Response: x5AVx2
+16:29:43.733821: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:43.736820: End of Request
+
+16:29:45.627894: New Request #16716:29:45.662457: Initial Response: Welcome to Telnet!
+16:29:45.665453: Send Message: Status16:29:45.687456: Message Response: x1AVx1
+16:29:45.727456: Message Response: x5AVx2
+16:29:45.731455: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:45.734459: End of Request
+
+16:29:47.628213: New Request #16816:29:47.664477: Initial Response: Welcome to Telnet!
+16:29:47.668463: Send Message: Status16:29:47.691475: Message Response: x1AVx1
+16:29:47.732403: Message Response: x5AVx2
+16:29:47.737464: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:47.740460: End of Request
+
+16:29:49.628584: New Request #16916:29:49.655590: Initial Response: Welcome to Telnet!
+16:29:49.659584: Send Message: Status16:29:49.691050: Message Response: x1AVx1
+16:29:49.731287: Message Response: x5AVx2
+16:29:49.734250: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:49.737250: End of Request
+
+16:29:51.628800: New Request #17016:29:51.655801: Initial Response: Welcome to Telnet!
+16:29:51.659800: Send Message: Status16:29:51.685806: Message Response: x1AVx1
+16:29:51.726189: Message Response: x5AVx2
+16:29:51.730251: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:51.733252: End of Request
+
+16:29:53.629647: New Request #17116:29:53.658724: Initial Response: Welcome to Telnet!
+16:29:53.662260: Send Message: Status16:29:53.688830: Message Response: x1AVx1
+16:29:53.728612: Message Response: x5AVx2
+16:29:53.732591: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:53.735467: End of Request
+
+16:29:55.630102: New Request #17216:29:55.685658: Initial Response: Welcome to Telnet!
+16:29:55.689719: Send Message: Status16:29:55.715658: Message Response: x1AVx1
+16:29:55.756082: Message Response: x5AVx2
+16:29:55.760083: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:55.763083: End of Request
+
+16:29:57.630430: New Request #17316:29:57.660435: Initial Response: Welcome to Telnet!
+16:29:57.663999: Send Message: Status16:29:57.690062: Message Response: x1AVx1
+16:29:57.731381: Message Response: x5AVx2
+16:29:57.736292: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:57.739292: End of Request
+
+16:29:59.630769: New Request #17416:29:59.656888: Initial Response: Welcome to Telnet!
+16:29:59.660988: Send Message: Status16:29:59.689452: Message Response: x1AVx1
+16:29:59.730440: Message Response: x5AVx2
+16:29:59.734481: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:29:59.737417: End of Request
+
+16:30:01.631388: New Request #17516:30:01.657388: Initial Response: Welcome to Telnet!
+16:30:01.661408: Send Message: Status16:30:01.688725: Message Response: x1AVx1
+16:30:01.728953: Message Response: x5AVx2
+16:30:01.733010: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:01.736009: End of Request
+
+16:30:03.631629: New Request #17616:30:03.659707: Initial Response: Welcome to Telnet!
+16:30:03.664297: Send Message: Status16:30:03.687298: Message Response: x1AVx1
+16:30:03.728338: Message Response: x5AVx2
+16:30:03.732307: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:03.735307: End of Request
+
+16:30:05.631862: New Request #17716:30:05.663415: Initial Response: Welcome to Telnet!
+16:30:05.667418: Send Message: Status16:30:05.684420: Message Response: x1AVx1
+16:30:05.725431: Message Response: x5AVx2
+16:30:05.729430: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:05.731431: End of Request
+
+16:30:07.632465: New Request #17816:30:07.700997: Initial Response: Welcome to Telnet!
+16:30:07.705740: Send Message: Status16:30:07.725172: Message Response: x1AVx1
+16:30:07.766270: Message Response: x5AVx2
+16:30:07.770235: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:07.773234: End of Request
+
+16:30:09.633304: New Request #17916:30:09.661599: Initial Response: Welcome to Telnet!
+16:30:09.666184: Send Message: Status16:30:09.691199: Message Response: x1AVx1
+16:30:09.732348: Message Response: x5AVx2
+16:30:09.736308: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:09.739309: End of Request
+
+16:30:11.633600: New Request #18016:30:11.666497: Initial Response: Welcome to Telnet!
+16:30:11.670479: Send Message: Status16:30:11.690418: Message Response: x1AVx1
+16:30:11.730408: Message Response: x5AVx2
+16:30:11.735407: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:11.737405: End of Request
+
+16:30:13.633728: New Request #18116:30:13.669703: Initial Response: Welcome to Telnet!
+16:30:13.673688: Send Message: Status16:30:13.692873: Message Response: x1AVx1
+16:30:13.732479: Message Response: x5AVx2
+16:30:13.736460: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:13.739459: End of Request
+
+16:30:15.634164: New Request #18216:30:15.668238: Initial Response: Welcome to Telnet!
+16:30:15.672233: Send Message: Status16:30:15.692234: Message Response: x1AVx1
+16:30:15.734347: Message Response: x5AVx2
+16:30:15.737347: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:15.740346: End of Request
+
+16:30:17.634177: New Request #18316:30:17.667788: Initial Response: Welcome to Telnet!
+16:30:17.672784: Send Message: Status16:30:17.693790: Message Response: x1AVx1
+16:30:17.734113: Message Response: x5AVx2
+16:30:17.739010: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:17.741073: End of Request
+
+16:30:19.635129: New Request #18416:30:19.662688: Initial Response: Welcome to Telnet!
+16:30:19.666693: Send Message: Status16:30:19.686696: Message Response: x1AVx1
+16:30:19.726893: Message Response: x5AVx2
+16:30:19.731857: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:19.734797: End of Request
+
+16:30:21.635553: New Request #18516:30:21.662134: Initial Response: Welcome to Telnet!
+16:30:21.666132: Send Message: Status16:30:21.693722: Message Response: x1AVx1
+16:30:21.733736: Message Response: x5AVx2
+16:30:21.738707: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:21.741700: End of Request
+
+16:30:23.635873: New Request #18616:30:23.695432: Initial Response: Welcome to Telnet!
+16:30:23.699433: Send Message: Status16:30:23.720433: Message Response: x1AVx1
+16:30:23.760925: Message Response: x5AVx2
+16:30:23.765922: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:23.768920: End of Request
+
+16:30:25.635933: New Request #18716:30:25.662476: Initial Response: Welcome to Telnet!
+16:30:25.667476: Send Message: Status16:30:25.704477: Message Response: x1AVx1
+16:30:25.750476: Message Response: x5AVx2
+16:30:25.753687: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:25.756682: End of Request
+
+16:30:27.636188: New Request #18816:30:27.664154: Initial Response: Welcome to Telnet!
+16:30:27.668126: Send Message: Status16:30:27.692190: Message Response: x1AVx1
+16:30:27.733570: Message Response: x5AVx2
+16:30:27.738487: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:27.741484: End of Request
+
+16:30:29.636947: New Request #18916:30:29.663506: Initial Response: Welcome to Telnet!
+16:30:29.668505: Send Message: Status16:30:29.695506: Message Response: x1AVx1
+16:30:29.735516: Message Response: x5AVx2
+16:30:29.740516: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:29.742518: End of Request
+
+16:30:31.637823: New Request #19016:30:31.666404: Initial Response: Welcome to Telnet!
+16:30:31.670456: Send Message: Status16:30:31.696573: Message Response: x1AVx1
+16:30:31.736514: Message Response: x5AVx2
+16:30:31.741510: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:31.743574: End of Request
+
+16:30:33.638561: New Request #19116:30:33.669186: Initial Response: Welcome to Telnet!
+16:30:33.673170: Send Message: Status16:30:33.699215: Message Response: x1AVx1
+16:30:33.740302: Message Response: x5AVx2
+16:30:33.745297: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:33.748359: End of Request
+
+16:30:35.639510: New Request #19216:30:35.667055: Initial Response: Welcome to Telnet!
+16:30:35.671057: Send Message: Status16:30:35.708054: Message Response: x1AVx1
+16:30:35.750055: Message Response: x5AVx2
+16:30:35.754567: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:35.757567: End of Request
+
+16:30:37.639596: New Request #19316:30:37.667989: Initial Response: Welcome to Telnet!
+16:30:37.671973: Send Message: Status16:30:37.699661: Message Response: x1AVx1
+16:30:37.739781: Message Response: x5AVx2
+16:30:37.744777: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:37.747838: End of Request
+
+16:30:39.639887: New Request #19416:30:39.667512: Initial Response: Welcome to Telnet!
+16:30:39.672509: Send Message: Status16:30:39.698418: Message Response: x1AVx1
+16:30:39.739541: Message Response: x5AVx2
+16:30:39.743551: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:39.746564: End of Request
+
+16:30:41.640053: New Request #19516:30:41.666692: Initial Response: Welcome to Telnet!
+16:30:41.669691: Send Message: Status16:30:41.698777: Message Response: x1AVx1
+16:30:41.738776: Message Response: x5AVx2
+16:30:41.743762: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:41.746757: End of Request
+
+16:30:43.640686: New Request #19616:30:43.671595: Initial Response: Welcome to Telnet!
+16:30:43.676581: Send Message: Status16:30:43.696598: Message Response: x1AVx1
+16:30:43.737095: Message Response: x5AVx2
+16:30:43.741234: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:43.744300: End of Request
+
+16:30:45.641431: New Request #19716:30:45.673499: Initial Response: Welcome to Telnet!
+16:30:45.676500: Send Message: Status16:30:45.703498: Message Response: x1AVx1
+16:30:45.743593: Message Response: x5AVx2
+16:30:45.747595: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:45.750592: End of Request
+
+16:30:47.642151: New Request #19816:30:47.669018: Initial Response: Welcome to Telnet!
+16:30:47.674015: Send Message: Status16:30:47.693131: Message Response: x1AVx1
+16:30:47.733387: Message Response: x5AVx2
+16:30:47.737400: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:47.740400: End of Request
+
+16:30:49.642373: New Request #19916:30:49.667918: Initial Response: Welcome to Telnet!
+16:30:49.671918: Send Message: Status16:30:49.700058: Message Response: x1AVx1
+16:30:49.741033: Message Response: x5AVx2
+16:30:49.745031: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:49.748030: End of Request
+
+16:30:51.642957: New Request #20016:30:51.673952: Initial Response: Welcome to Telnet!
+16:30:51.677129: Send Message: Status16:30:51.705359: Message Response: x1AVx1
+16:30:51.745450: Message Response: x5AVx2
+16:30:51.750445: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:51.753508: End of Request
+
+16:30:53.643018: New Request #20116:30:53.671219: Initial Response: Welcome to Telnet!
+16:30:53.676140: Send Message: Status16:30:53.721872: Message Response: x1AVx1
+16:30:53.762295: Message Response: x5AVx2
+16:30:53.766267: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:53.769205: End of Request
+
+16:30:55.643046: New Request #20216:30:55.671111: Initial Response: Welcome to Telnet!
+16:30:55.674112: Send Message: Status16:30:55.703111: Message Response: x1AVx1
+16:30:55.744112: Message Response: x5AVx2
+16:30:55.748111: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:55.751112: End of Request
+
+16:30:57.643978: New Request #20316:30:57.675890: Initial Response: Welcome to Telnet!
+16:30:57.679872: Send Message: Status16:30:57.706165: Message Response: x1AVx1
+16:30:57.746439: Message Response: x5AVx2
+16:30:57.751420: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:57.753419: End of Request
+
+16:30:59.644106: New Request #20416:30:59.672849: Initial Response: Welcome to Telnet!
+16:30:59.677833: Send Message: Status16:30:59.701653: Message Response: x1AVx1
+16:30:59.742270: Message Response: x5AVx2
+16:30:59.746269: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:30:59.749268: End of Request
+
+16:31:01.644695: New Request #20516:31:01.672338: Initial Response: Welcome to Telnet!
+16:31:01.676322: Send Message: Status16:31:01.705295: Message Response: x1AVx1
+16:31:01.745870: Message Response: x5AVx2
+16:31:01.750835: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:01.753835: End of Request
+
+16:31:03.645400: New Request #20616:31:03.673329: Initial Response: Welcome to Telnet!
+16:31:03.677314: Send Message: Status16:31:03.710017: Message Response: x1AVx1
+16:31:03.751426: Message Response: x5AVx2
+16:31:03.756348: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:03.758399: End of Request
+
+16:31:05.645541: New Request #20716:31:05.673586: Initial Response: Welcome to Telnet!
+16:31:05.676586: Send Message: Status16:31:05.717588: Message Response: x1AVx1
+16:31:05.758018: Message Response: x5AVx2
+16:31:05.761018: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:05.764439: End of Request
+
+16:31:07.646281: New Request #20816:31:07.672952: Initial Response: Welcome to Telnet!
+16:31:07.675952: Send Message: Status16:31:07.704954: Message Response: x1AVx1
+16:31:07.746948: Message Response: x5AVx2
+16:31:07.750948: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:07.753948: End of Request
+
+16:31:09.646646: New Request #20916:31:09.676294: Initial Response: Welcome to Telnet!
+16:31:09.680290: Send Message: Status16:31:09.706499: Message Response: x1AVx1
+16:31:09.747216: Message Response: x5AVx2
+16:31:09.752211: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:09.754211: End of Request
+
+16:31:11.646801: New Request #21016:31:11.681838: Initial Response: Welcome to Telnet!
+16:31:11.685839: Send Message: Status16:31:11.705916: Message Response: x1AVx1
+16:31:11.745990: Message Response: x5AVx2
+16:31:11.749973: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:11.752913: End of Request
+
+16:31:13.647214: New Request #21116:31:13.677539: Initial Response: Welcome to Telnet!
+16:31:13.682535: Send Message: Status16:31:13.702549: Message Response: x1AVx1
+16:31:13.742704: Message Response: x5AVx2
+16:31:13.746639: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:13.749639: End of Request
+
+16:31:15.647422: New Request #21216:31:15.676965: Initial Response: Welcome to Telnet!
+16:31:15.679964: Send Message: Status16:31:15.706965: Message Response: x1AVx1
+16:31:15.748965: Message Response: x5AVx2
+16:31:15.753965: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:15.756966: End of Request
+
+16:31:17.648369: New Request #21316:31:17.681416: Initial Response: Welcome to Telnet!
+16:31:17.686414: Send Message: Status16:31:17.706553: Message Response: x1AVx1
+16:31:17.747139: Message Response: x5AVx2
+16:31:17.752203: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:17.755202: End of Request
+
+16:31:19.648757: New Request #21416:31:19.698935: Initial Response: Welcome to Telnet!
+16:31:19.702914: Send Message: Status16:31:19.728105: Message Response: x1AVx1
+16:31:19.768873: Message Response: x5AVx2
+16:31:19.773941: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:19.775967: End of Request
+
+16:31:21.649575: New Request #21516:31:21.685575: Initial Response: Welcome to Telnet!
+16:31:21.689635: Send Message: Status16:31:21.709650: Message Response: x1AVx1
+16:31:21.750911: Message Response: x5AVx2
+16:31:21.755229: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:21.758384: End of Request
+
+16:31:23.650123: New Request #21616:31:23.687065: Initial Response: Welcome to Telnet!
+16:31:23.691053: Send Message: Status16:31:23.711012: Message Response: x1AVx1
+16:31:23.752271: Message Response: x5AVx2
+16:31:23.757255: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:23.760209: End of Request
+
+16:31:25.650610: New Request #21716:31:25.688663: Initial Response: Welcome to Telnet!
+16:31:25.692662: Send Message: Status16:31:25.751663: Message Response: x1AVx1
+16:31:25.791756: Message Response: x5AVx2
+16:31:25.795755: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:25.797755: End of Request
+
+16:31:27.650683: New Request #21816:31:27.678261: Initial Response: Welcome to Telnet!
+16:31:27.682261: Send Message: Status16:31:27.709338: Message Response: x1AVx1
+16:31:27.750340: Message Response: x5AVx2
+16:31:27.755262: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:27.758262: End of Request
+
+16:31:29.650756: New Request #21916:31:29.676472: Initial Response: Welcome to Telnet!
+16:31:29.680467: Send Message: Status16:31:29.707188: Message Response: x1AVx1
+16:31:29.747943: Message Response: x5AVx2
+16:31:29.752902: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:29.755842: End of Request
+
+16:31:31.651009: New Request #22016:31:31.682211: Initial Response: Welcome to Telnet!
+16:31:31.686198: Send Message: Status16:31:31.707211: Message Response: x1AVx1
+16:31:31.748490: Message Response: x5AVx2
+16:31:31.753477: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:31.756474: End of Request
+
+16:31:33.651536: New Request #22116:31:33.703185: Initial Response: Welcome to Telnet!
+16:31:33.707172: Send Message: Status16:31:33.728664: Message Response: x1AVx1
+16:31:33.770232: Message Response: x5AVx2
+16:31:33.775241: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:33.777241: End of Request
+
+16:31:35.651830: New Request #22216:31:35.682376: Initial Response: Welcome to Telnet!
+16:31:35.686377: Send Message: Status16:31:35.714376: Message Response: x1AVx1
+16:31:35.754983: Message Response: x5AVx2
+16:31:35.758983: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:35.760984: End of Request
+
+16:31:37.652754: New Request #22316:31:37.688432: Initial Response: Welcome to Telnet!
+16:31:37.692417: Send Message: Status16:31:37.712748: Message Response: x1AVx1
+16:31:37.753590: Message Response: x5AVx2
+16:31:37.757588: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:37.760588: End of Request
+
+16:31:39.653030: New Request #22416:31:39.688468: Initial Response: Welcome to Telnet!
+16:31:39.691819: Send Message: Status16:31:39.712899: Message Response: x1AVx1
+16:31:39.753070: Message Response: x5AVx2
+16:31:39.758005: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:39.761004: End of Request
+
+16:31:41.653618: New Request #22516:31:41.689157: Initial Response: Welcome to Telnet!
+16:31:41.692155: Send Message: Status16:31:41.713254: Message Response: x1AVx1
+16:31:41.754306: Message Response: x5AVx2
+16:31:41.759270: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:41.762201: End of Request
+
+16:31:43.654016: New Request #22616:31:43.689621: Initial Response: Welcome to Telnet!
+16:31:43.694691: Send Message: Status16:31:43.721620: Message Response: x1AVx1
+16:31:43.761624: Message Response: x5AVx2
+16:31:43.766618: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:43.769620: End of Request
+
+16:31:45.654542: New Request #22716:31:45.689126: Initial Response: Welcome to Telnet!
+16:31:45.693128: Send Message: Status16:31:45.718680: Message Response: x1AVx1
+16:31:45.760044: Message Response: x5AVx2
+16:31:45.765044: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:45.767088: End of Request
+
+16:31:47.654861: New Request #22816:31:47.713328: Initial Response: Welcome to Telnet!
+16:31:47.718227: Send Message: Status16:31:47.738942: Message Response: x1AVx1
+16:31:47.778616: Message Response: x5AVx2
+16:31:47.782614: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:47.785676: End of Request
+
+16:31:49.655427: New Request #22916:31:49.683017: Initial Response: Welcome to Telnet!
+16:31:49.687017: Send Message: Status16:31:49.713020: Message Response: x1AVx1
+16:31:49.754026: Message Response: x5AVx2
+16:31:49.758027: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:49.762029: End of Request
+
+16:31:51.656037: New Request #23016:31:51.690647: Initial Response: Welcome to Telnet!
+16:31:51.694587: Send Message: Status16:31:51.714356: Message Response: x1AVx1
+16:31:51.761952: Message Response: x5AVx2
+16:31:51.766890: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:51.769890: End of Request
+
+16:31:53.656121: New Request #23116:31:53.681733: Initial Response: Welcome to Telnet!
+16:31:53.686791: Send Message: Status16:31:53.706729: Message Response: x1AVx1
+16:31:53.748244: Message Response: x5AVx2
+16:31:53.753305: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:53.756241: End of Request
+
+16:31:55.656420: New Request #23216:31:55.683501: Initial Response: Welcome to Telnet!
+16:31:55.687500: Send Message: Status16:31:55.714499: Message Response: x1AVx1
+16:31:55.755500: Message Response: x5AVx2
+16:31:55.760003: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:55.763048: End of Request
+
+16:31:57.657369: New Request #23316:31:57.690902: Initial Response: Welcome to Telnet!
+16:31:57.694900: Send Message: Status16:31:57.715965: Message Response: x1AVx1
+16:31:57.755917: Message Response: x5AVx2
+16:31:57.760902: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:57.763900: End of Request
+
+16:31:59.657484: New Request #23416:31:59.690109: Initial Response: Welcome to Telnet!
+16:31:59.695093: Send Message: Status16:31:59.714159: Message Response: x1AVx1
+16:31:59.754451: Message Response: x5AVx2
+16:31:59.759390: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:31:59.762415: End of Request
+
+16:32:01.657581: New Request #23516:32:01.688690: Initial Response: Welcome to Telnet!
+16:32:01.692689: Send Message: Status16:32:01.713690: Message Response: x1AVx1
+16:32:01.754770: Message Response: x5AVx2
+16:32:01.758769: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:01.761771: End of Request
+
+16:32:03.658480: New Request #23616:32:03.691028: Initial Response: Welcome to Telnet!
+16:32:03.694028: Send Message: Status16:32:03.714033: Message Response: x1AVx1
+16:32:03.755174: Message Response: x5AVx2
+16:32:03.760175: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:03.763177: End of Request
+
+16:32:05.658616: New Request #23716:32:05.686729: Initial Response: Welcome to Telnet!
+16:32:05.690728: Send Message: Status16:32:05.711730: Message Response: x1AVx1
+16:32:05.752245: Message Response: x5AVx2
+16:32:05.755247: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:05.758245: End of Request
+
+16:32:07.659062: New Request #23816:32:07.693295: Initial Response: Welcome to Telnet!
+16:32:07.698299: Send Message: Status16:32:07.717015: Message Response: x1AVx1
+16:32:07.757956: Message Response: x5AVx2
+16:32:07.762017: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:07.765017: End of Request
+
+16:32:09.659508: New Request #23916:32:09.694584: Initial Response: Welcome to Telnet!
+16:32:09.700582: Send Message: Status16:32:09.718583: Message Response: x1AVx1
+16:32:09.759596: Message Response: x5AVx2
+16:32:09.764599: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:09.767599: End of Request
+
+16:32:11.659610: New Request #24016:32:11.692611: Initial Response: Welcome to Telnet!
+16:32:11.696611: Send Message: Status16:32:11.717688: Message Response: x1AVx1
+16:32:11.758255: Message Response: x5AVx2
+16:32:11.763254: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:11.766289: End of Request
+
+16:32:13.660491: New Request #24116:32:13.689501: Initial Response: Welcome to Telnet!
+16:32:13.693501: Send Message: Status16:32:13.714032: Message Response: x1AVx1
+16:32:13.754077: Message Response: x5AVx2
+16:32:13.759015: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:13.762014: End of Request
+
+16:32:15.661430: New Request #24216:32:15.690429: Initial Response: Welcome to Telnet!
+16:32:15.695429: Send Message: Status16:32:15.745635: Message Response: x1AVx1
+16:32:15.786212: Message Response: x5AVx2
+16:32:15.791217: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:15.794213: End of Request
+
+16:32:17.661753: New Request #24316:32:17.689756: Initial Response: Welcome to Telnet!
+16:32:17.693755: Send Message: Status16:32:17.719816: Message Response: x1AVx1
+16:32:17.761757: Message Response: x5AVx2
+16:32:17.765757: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:17.768755: End of Request
+
+16:32:19.661754: New Request #24416:32:19.697345: Initial Response: Welcome to Telnet!
+16:32:19.701345: Send Message: Status16:32:19.720607: Message Response: x1AVx1
+16:32:19.761678: Message Response: x5AVx2
+16:32:19.766680: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:19.769680: End of Request
+
+16:32:21.661796: New Request #24516:32:21.691342: Initial Response: Welcome to Telnet!
+16:32:21.694341: Send Message: Status16:32:21.715337: Message Response: x1AVx1
+16:32:21.756337: Message Response: x5AVx2
+16:32:21.760336: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:21.763337: End of Request
+
+16:32:23.662563: New Request #24616:32:23.703141: Initial Response: Welcome to Telnet!
+16:32:23.707200: Send Message: Status16:32:23.727088: Message Response: x1AVx1
+16:32:23.769206: Message Response: x5AVx2
+16:32:23.774210: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:23.777203: End of Request
+
+16:32:25.662733: New Request #24716:32:25.693744: Initial Response: Welcome to Telnet!
+16:32:25.698743: Send Message: Status16:32:25.717740: Message Response: x1AVx1
+16:32:25.758250: Message Response: x5AVx2
+16:32:25.764240: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:25.766242: End of Request
+
+16:32:27.663032: New Request #24816:32:27.692187: Initial Response: Welcome to Telnet!
+16:32:27.697260: Send Message: Status16:32:27.716744: Message Response: x1AVx1
+16:32:27.756919: Message Response: x5AVx2
+16:32:27.761918: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:27.763979: End of Request
+
+16:32:29.663885: New Request #24916:32:29.691886: Initial Response: Welcome to Telnet!
+16:32:29.695886: Send Message: Status16:32:29.721888: Message Response: x1AVx1
+16:32:29.761946: Message Response: x5AVx2
+16:32:29.766884: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:29.769884: End of Request
+
+16:32:31.664017: New Request #25016:32:31.692017: Initial Response: Welcome to Telnet!
+16:32:31.697022: Send Message: Status16:32:31.721075: Message Response: x1AVx1
+16:32:31.763098: Message Response: x5AVx2
+16:32:31.768095: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:31.771095: End of Request
+
+16:32:33.664906: New Request #25116:32:33.692904: Initial Response: Welcome to Telnet!
+16:32:33.696903: Send Message: Status16:32:33.723904: Message Response: x1AVx1
+16:32:33.764904: Message Response: x5AVx2
+16:32:33.768903: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:33.770903: End of Request
+
+16:32:35.665101: New Request #25216:32:35.693101: Initial Response: Welcome to Telnet!
+16:32:35.697101: Send Message: Status16:32:35.723102: Message Response: x1AVx1
+16:32:35.764103: Message Response: x5AVx2
+16:32:35.769102: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:35.771750: End of Request
+
+16:32:37.665598: New Request #25316:32:37.694597: Initial Response: Welcome to Telnet!
+16:32:37.697597: Send Message: Status16:32:37.730598: Message Response: x1AVx1
+16:32:37.770779: Message Response: x5AVx2
+16:32:37.775779: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:37.778780: End of Request
+
+16:32:39.665942: New Request #25416:32:39.699998: Initial Response: Welcome to Telnet!
+16:32:39.705066: Send Message: Status16:32:39.730065: Message Response: x1AVx1
+16:32:39.771247: Message Response: x5AVx2
+16:32:39.776185: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:39.779252: End of Request
+
+16:32:41.666825: New Request #25516:32:41.691825: Initial Response: Welcome to Telnet!
+16:32:41.695826: Send Message: Status16:32:41.721333: Message Response: x1AVx1
+16:32:41.761337: Message Response: x5AVx2
+16:32:41.766340: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:41.769334: End of Request
+
+16:32:43.667240: New Request #25616:32:43.719220: Initial Response: Welcome to Telnet!
+16:32:43.724293: Send Message: Status16:32:43.746234: Message Response: x1AVx1
+16:32:43.787318: Message Response: x5AVx2
+16:32:43.792297: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:43.795298: End of Request
+
+16:32:45.667569: New Request #25716:32:45.702569: Initial Response: Welcome to Telnet!
+16:32:45.706569: Send Message: Status16:32:45.727571: Message Response: x1AVx1
+16:32:45.768211: Message Response: x5AVx2
+16:32:45.771863: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:45.773866: End of Request
+
+16:32:47.667733: New Request #25816:32:47.695732: Initial Response: Welcome to Telnet!
+16:32:47.698732: Send Message: Status16:32:47.712732: Message Response: x1AVx1
+16:32:47.754795: Message Response: x5AVx2
+16:32:47.759795: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:47.762796: End of Request
+
+16:32:49.667871: New Request #25916:32:49.694869: Initial Response: Welcome to Telnet!
+16:32:49.698869: Send Message: Status16:32:49.725870: Message Response: x1AVx1
+16:32:49.767001: Message Response: x5AVx2
+16:32:49.771940: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:49.774942: End of Request
+
+16:32:51.667956: New Request #26016:32:51.696958: Initial Response: Welcome to Telnet!
+16:32:51.701957: Send Message: Status16:32:51.745347: Message Response: x1AVx1
+16:32:51.784410: Message Response: x5AVx2
+16:32:51.789387: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:51.792345: End of Request
+
+16:32:53.668100: New Request #26116:32:53.706101: Initial Response: Welcome to Telnet!
+16:32:53.710101: Send Message: Status16:32:53.729105: Message Response: x1AVx1
+16:32:53.772165: Message Response: x5AVx2
+16:32:53.777101: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:53.779165: End of Request
+
+16:32:55.668306: New Request #26216:32:55.699301: Initial Response: Welcome to Telnet!
+16:32:55.704302: Send Message: Status16:32:55.722301: Message Response: x1AVx1
+16:32:55.763529: Message Response: x5AVx2
+16:32:55.768529: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:55.771530: End of Request
+
+16:32:57.668448: New Request #26316:32:57.698449: Initial Response: Welcome to Telnet!
+16:32:57.702446: Send Message: Status16:32:57.726447: Message Response: x1AVx1
+16:32:57.766509: Message Response: x5AVx2
+16:32:57.771446: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:57.774447: End of Request
+
+16:32:59.669304: New Request #26416:32:59.723780: Initial Response: Welcome to Telnet!
+16:32:59.728720: Send Message: Status16:32:59.764719: Message Response: x1AVx1
+16:32:59.806782: Message Response: x5AVx2
+16:32:59.811790: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:32:59.814720: End of Request
+
+16:33:01.670139: New Request #26516:33:01.700152: Initial Response: Welcome to Telnet!
+16:33:01.703153: Send Message: Status16:33:01.731152: Message Response: x1AVx1
+16:33:01.771158: Message Response: x5AVx2
+16:33:01.777152: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:01.780151: End of Request
+
+16:33:03.670187: New Request #26616:33:03.698194: Initial Response: Welcome to Telnet!
+16:33:03.702253: Send Message: Status16:33:03.727199: Message Response: x1AVx1
+16:33:03.768200: Message Response: x5AVx2
+16:33:03.773198: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:03.776200: End of Request
+
+16:33:05.671126: New Request #26716:33:05.701126: Initial Response: Welcome to Telnet!
+16:33:05.707124: Send Message: Status16:33:05.726125: Message Response: x1AVx1
+16:33:05.766214: Message Response: x5AVx2
+16:33:05.771208: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:05.775209: End of Request
+
+16:33:07.671382: New Request #26816:33:07.698383: Initial Response: Welcome to Telnet!
+16:33:07.702384: Send Message: Status16:33:07.721381: Message Response: x1AVx1
+16:33:07.762381: Message Response: x5AVx2
+16:33:07.766381: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:07.769382: End of Request
+
+16:33:09.671699: New Request #26916:33:09.733696: Initial Response: Welcome to Telnet!
+16:33:09.737698: Send Message: Status16:33:09.773699: Message Response: x1AVx1
+16:33:09.813761: Message Response: x5AVx2
+16:33:09.818777: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:09.821697: End of Request
+
+16:33:11.672044: New Request #27016:33:11.714044: Initial Response: Welcome to Telnet!
+16:33:11.719044: Send Message: Status16:33:11.744047: Message Response: x1AVx1
+16:33:11.786044: Message Response: x5AVx2
+16:33:11.790044: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:11.793045: End of Request
+
+16:33:13.672086: New Request #27116:33:13.699085: Initial Response: Welcome to Telnet!
+16:33:13.703085: Send Message: Status16:33:13.731087: Message Response: x1AVx1
+16:33:13.772089: Message Response: x5AVx2
+16:33:13.777088: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:13.779090: End of Request
+
+16:33:15.672341: New Request #27216:33:15.706342: Initial Response: Welcome to Telnet!
+16:33:15.709339: Send Message: Status16:33:15.730339: Message Response: x1AVx1
+16:33:15.771541: Message Response: x5AVx2
+16:33:15.776447: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:15.779455: End of Request
+
+16:33:17.672462: New Request #27316:33:17.706466: Initial Response: Welcome to Telnet!
+16:33:17.710462: Send Message: Status16:33:17.729466: Message Response: x1AVx1
+16:33:17.770325: Message Response: x5AVx2
+16:33:17.775268: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:17.778265: End of Request
+
+16:33:19.672497: New Request #27416:33:19.706499: Initial Response: Welcome to Telnet!
+16:33:19.711506: Send Message: Status16:33:19.730562: Message Response: x1AVx1
+16:33:19.771499: Message Response: x5AVx2
+16:33:19.776520: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:19.779499: End of Request
+
+16:33:21.673379: New Request #27516:33:21.702488: Initial Response: Welcome to Telnet!
+16:33:21.706564: Send Message: Status16:33:21.733243: Message Response: x1AVx1
+16:33:21.774242: Message Response: x5AVx2
+16:33:21.778243: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:21.781243: End of Request
+
+16:33:23.673836: New Request #27616:33:23.701836: Initial Response: Welcome to Telnet!
+16:33:23.705836: Send Message: Status16:33:23.732836: Message Response: x1AVx1
+16:33:23.773228: Message Response: x5AVx2
+16:33:23.778228: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:23.781297: End of Request
+
+16:33:25.674747: New Request #27716:33:25.701745: Initial Response: Welcome to Telnet!
+16:33:25.705748: Send Message: Status16:33:25.731746: Message Response: x1AVx1
+16:33:25.773464: Message Response: x5AVx2
+16:33:25.778462: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:25.780463: End of Request
+
+16:33:27.675704: New Request #27816:33:27.705753: Initial Response: Welcome to Telnet!
+16:33:27.709691: Send Message: Status16:33:27.735709: Message Response: x1AVx1
+16:33:27.776710: Message Response: x5AVx2
+16:33:27.781708: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:27.783708: End of Request
+
+16:33:29.676213: New Request #27916:33:29.709885: Initial Response: Welcome to Telnet!
+16:33:29.713794: Send Message: Status16:33:29.732947: Message Response: x1AVx1
+16:33:29.774514: Message Response: x5AVx2
+16:33:29.779511: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:29.782513: End of Request
+
+16:33:31.676289: New Request #28016:33:31.709583: Initial Response: Welcome to Telnet!
+16:33:31.713593: Send Message: Status16:33:31.734757: Message Response: x1AVx1
+16:33:31.774765: Message Response: x5AVx2
+16:33:31.779756: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:31.782754: End of Request
+
+16:33:33.677235: New Request #28116:33:33.710236: Initial Response: Welcome to Telnet!
+16:33:33.714236: Send Message: Status16:33:33.734307: Message Response: x1AVx1
+16:33:33.774308: Message Response: x5AVx2
+16:33:33.778308: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:33.781307: End of Request
+
+16:33:35.677989: New Request #28216:33:35.706989: Initial Response: Welcome to Telnet!
+16:33:35.710989: Send Message: Status16:33:35.736270: Message Response: x1AVx1
+16:33:35.777668: Message Response: x5AVx2
+16:33:35.781666: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:35.784669: End of Request
+
+16:33:37.678742: New Request #28316:33:37.706805: Initial Response: Welcome to Telnet!
+16:33:37.710804: Send Message: Status16:33:37.736819: Message Response: x1AVx1
+16:33:37.777743: Message Response: x5AVx2
+16:33:37.783746: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:37.786744: End of Request
+
+16:33:39.679177: New Request #28416:33:39.707180: Initial Response: Welcome to Telnet!
+16:33:39.710177: Send Message: Status16:33:39.738180: Message Response: x1AVx1
+16:33:39.778179: Message Response: x5AVx2
+16:33:39.782178: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:39.785178: End of Request
+
+16:33:41.679306: New Request #28516:33:41.738382: Initial Response: Welcome to Telnet!
+16:33:41.742308: Send Message: Status16:33:41.764372: Message Response: x1AVx1
+16:33:41.806441: Message Response: x5AVx2
+16:33:41.811499: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:41.814439: End of Request
+
+16:33:43.679383: New Request #28616:33:43.706396: Initial Response: Welcome to Telnet!
+16:33:43.710392: Send Message: Status16:33:43.731391: Message Response: x1AVx1
+16:33:43.771425: Message Response: x5AVx2
+16:33:43.776457: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:43.778453: End of Request
+
+16:33:45.680330: New Request #28716:33:45.737329: Initial Response: Welcome to Telnet!
+16:33:45.741329: Send Message: Status16:33:45.760909: Message Response: x1AVx1
+16:33:45.801113: Message Response: x5AVx2
+16:33:45.805112: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:45.808111: End of Request
+
+16:33:47.681132: New Request #28816:33:47.720133: Initial Response: Welcome to Telnet!
+16:33:47.724131: Send Message: Status16:33:47.750134: Message Response: x1AVx1
+16:33:47.792132: Message Response: x5AVx2
+16:33:47.796135: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:47.799133: End of Request
+
+16:33:49.681294: New Request #28916:33:49.715371: Initial Response: Welcome to Telnet!
+16:33:49.719356: Send Message: Status16:33:49.743275: Message Response: x1AVx1
+16:33:49.783525: Message Response: x5AVx2
+16:33:49.788468: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:49.791443: End of Request
+
+16:33:51.681740: New Request #29016:33:51.715742: Initial Response: Welcome to Telnet!
+16:33:51.720740: Send Message: Status16:33:51.736740: Message Response: x1AVx1
+16:33:51.776740: Message Response: x5AVx2
+16:33:51.781739: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:51.784740: End of Request
+
+16:33:53.682448: New Request #29116:33:53.711452: Initial Response: Welcome to Telnet!
+16:33:53.715449: Send Message: Status16:33:53.736513: Message Response: x1AVx1
+16:33:53.776943: Message Response: x5AVx2
+16:33:53.781886: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:53.783942: End of Request
+
+16:33:55.683088: New Request #29216:33:55.741089: Initial Response: Welcome to Telnet!
+16:33:55.748087: Send Message: Status16:33:55.765386: Message Response: x1AVx1
+16:33:55.805974: Message Response: x5AVx2
+16:33:55.809974: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:55.812973: End of Request
+
+16:33:57.683734: New Request #29316:33:57.716736: Initial Response: Welcome to Telnet!
+16:33:57.720795: Send Message: Status16:33:57.747357: Message Response: x1AVx1
+16:33:57.787772: Message Response: x5AVx2
+16:33:57.792749: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:57.795750: End of Request
+
+16:33:59.684053: New Request #29416:33:59.715132: Initial Response: Welcome to Telnet!
+16:33:59.720116: Send Message: Status16:33:59.742137: Message Response: x1AVx1
+16:33:59.782504: Message Response: x5AVx2
+16:33:59.787479: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:33:59.790478: End of Request
+
+16:34:01.684108: New Request #29516:34:01.709109: Initial Response: Welcome to Telnet!
+16:34:01.713109: Send Message: Status16:34:01.738108: Message Response: x1AVx1
+16:34:01.778156: Message Response: x5AVx2
+16:34:01.783214: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:01.785216: End of Request
+
+16:34:03.684405: New Request #29616:34:03.716484: Initial Response: Welcome to Telnet!
+16:34:03.720469: Send Message: Status16:34:03.741659: Message Response: x1AVx1
+16:34:03.782159: Message Response: x5AVx2
+16:34:03.786199: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:03.789267: End of Request
+
+16:34:05.685036: New Request #29716:34:05.737036: Initial Response: Welcome to Telnet!
+16:34:05.741034: Send Message: Status16:34:05.767681: Message Response: x1AVx1
+16:34:05.809682: Message Response: x5AVx2
+16:34:05.813682: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:05.816682: End of Request
+
+16:34:07.685301: New Request #29816:34:07.720309: Initial Response: Welcome to Telnet!
+16:34:07.724302: Send Message: Status16:34:07.747608: Message Response: x1AVx1
+16:34:07.789743: Message Response: x5AVx2
+16:34:07.793719: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:07.796719: End of Request
+
+16:34:09.685968: New Request #29916:34:09.724048: Initial Response: Welcome to Telnet!
+16:34:09.727030: Send Message: Status16:34:09.771428: Message Response: x1AVx1
+16:34:09.812116: Message Response: x5AVx2
+16:34:09.816028: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:09.819029: End of Request
+
+16:34:11.686956: New Request #30016:34:11.720964: Initial Response: Welcome to Telnet!
+16:34:11.725954: Send Message: Status16:34:11.746377: Message Response: x1AVx1
+16:34:11.787006: Message Response: x5AVx2
+16:34:11.791077: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:11.794079: End of Request
+
+16:34:13.687768: New Request #30116:34:13.715770: Initial Response: Welcome to Telnet!
+16:34:13.719770: Send Message: Status16:34:13.747046: Message Response: x1AVx1
+16:34:13.788780: Message Response: x5AVx2
+16:34:13.793800: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:13.796799: End of Request
+
+16:34:15.688557: New Request #30216:34:15.716557: Initial Response: Welcome to Telnet!
+16:34:15.720557: Send Message: Status16:34:15.749619: Message Response: x1AVx1
+16:34:15.789707: Message Response: x5AVx2
+16:34:15.793708: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:15.796770: End of Request
+
+16:34:17.688768: New Request #30316:34:17.715846: Initial Response: Welcome to Telnet!
+16:34:17.719829: Send Message: Status16:34:17.748563: Message Response: x1AVx1
+16:34:17.789443: Message Response: x5AVx2
+16:34:17.793505: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:17.796505: End of Request
+
+16:34:19.689161: New Request #30416:34:19.722267: Initial Response: Welcome to Telnet!
+16:34:19.727163: Send Message: Status16:34:19.747183: Message Response: x1AVx1
+16:34:19.788132: Message Response: x5AVx2
+16:34:19.793042: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:19.796041: End of Request
+
+16:34:21.689404: New Request #30516:34:21.722410: Initial Response: Welcome to Telnet!
+16:34:21.726403: Send Message: Status16:34:21.747393: Message Response: x1AVx1
+16:34:21.787585: Message Response: x5AVx2
+16:34:21.792522: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:21.794567: End of Request
+
+16:34:23.689922: New Request #30616:34:23.719984: Initial Response: Welcome to Telnet!
+16:34:23.723983: Send Message: Status16:34:23.743922: Message Response: x1AVx1
+16:34:23.783645: Message Response: x5AVx2
+16:34:23.788703: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:23.791639: End of Request
+
+16:34:25.689924: New Request #30716:34:25.718924: Initial Response: Welcome to Telnet!
+16:34:25.722923: Send Message: Status16:34:25.747925: Message Response: x1AVx1
+16:34:25.787913: Message Response: x5AVx2
+16:34:25.791912: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:25.794914: End of Request
+
+16:34:27.690759: New Request #30816:34:27.723761: Initial Response: Welcome to Telnet!
+16:34:27.727824: Send Message: Status16:34:27.754701: Message Response: x1AVx1
+16:34:27.795489: Message Response: x5AVx2
+16:34:27.799546: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:27.802545: End of Request
+
+16:34:29.691411: New Request #30916:34:29.726427: Initial Response: Welcome to Telnet!
+16:34:29.730427: Send Message: Status16:34:29.753491: Message Response: x1AVx1
+16:34:29.793504: Message Response: x5AVx2
+16:34:29.797488: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:29.800427: End of Request
+
+16:34:31.691426: New Request #31016:34:31.726503: Initial Response: Welcome to Telnet!
+16:34:31.730426: Send Message: Status16:34:31.750483: Message Response: x1AVx1
+16:34:31.790737: Message Response: x5AVx2
+16:34:31.795651: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:31.798703: End of Request
+
+16:34:33.692336: New Request #31116:34:33.725511: Initial Response: Welcome to Telnet!
+16:34:33.729497: Send Message: Status16:34:33.750059: Message Response: x1AVx1
+16:34:33.790116: Message Response: x5AVx2
+16:34:33.795054: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:33.797100: End of Request
+
+16:34:35.692962: New Request #31216:34:35.745963: Initial Response: Welcome to Telnet!
+16:34:35.749962: Send Message: Status16:34:35.767873: Message Response: x1AVx1
+16:34:35.808091: Message Response: x5AVx2
+16:34:35.812093: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:35.815090: End of Request
+
+16:34:37.693416: New Request #31316:34:37.728494: Initial Response: Welcome to Telnet!
+16:34:37.732479: Send Message: Status16:34:37.752523: Message Response: x1AVx1
+16:34:37.793385: Message Response: x5AVx2
+16:34:37.798285: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:37.801285: End of Request
+
+16:34:39.693653: New Request #31416:34:39.728341: Initial Response: Welcome to Telnet!
+16:34:39.732263: Send Message: Status16:34:39.752490: Message Response: x1AVx1
+16:34:39.792869: Message Response: x5AVx2
+16:34:39.797789: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:39.799788: End of Request
+
+16:34:41.693788: New Request #31516:34:41.728866: Initial Response: Welcome to Telnet!
+16:34:41.732851: Send Message: Status16:34:41.754085: Message Response: x1AVx1
+16:34:41.795868: Message Response: x5AVx2
+16:34:41.799923: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:41.802922: End of Request
+
+16:34:43.694535: New Request #31616:34:43.722614: Initial Response: Welcome to Telnet!
+16:34:43.726535: Send Message: Status16:34:43.749144: Message Response: x1AVx1
+16:34:43.789223: Message Response: x5AVx2
+16:34:43.794222: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:43.796283: End of Request
+
+16:34:45.695315: New Request #31716:34:45.725316: Initial Response: Welcome to Telnet!
+16:34:45.729316: Send Message: Status16:34:45.756257: Message Response: x1AVx1
+16:34:45.797255: Message Response: x5AVx2
+16:34:45.801256: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:45.804255: End of Request
+
+16:34:47.696122: New Request #31816:34:47.724229: Initial Response: Welcome to Telnet!
+16:34:47.728213: Send Message: Status16:34:47.754213: Message Response: x1AVx1
+16:34:47.794660: Message Response: x5AVx2
+16:34:47.800372: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:47.802436: End of Request
+
+16:34:49.696123: New Request #31916:34:49.729202: Initial Response: Welcome to Telnet!
+16:34:49.734157: Send Message: Status16:34:49.753394: Message Response: x1AVx1
+16:34:49.794683: Message Response: x5AVx2
+16:34:49.798746: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:49.801746: End of Request
+
+16:34:51.697052: New Request #32016:34:51.726317: Initial Response: Welcome to Telnet!
+16:34:51.731240: Send Message: Status16:34:51.751243: Message Response: x1AVx1
+16:34:51.793345: Message Response: x5AVx2
+16:34:51.798409: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:51.800408: End of Request
+
+16:34:53.697197: New Request #32116:34:53.729201: Initial Response: Welcome to Telnet!
+16:34:53.734198: Send Message: Status16:34:53.754495: Message Response: x1AVx1
+16:34:53.795439: Message Response: x5AVx2
+16:34:53.799493: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:53.802495: End of Request
+
+16:34:55.697215: New Request #32216:34:55.731217: Initial Response: Welcome to Telnet!
+16:34:55.735216: Send Message: Status16:34:55.756223: Message Response: x1AVx1
+16:34:55.797397: Message Response: x5AVx2
+16:34:55.801396: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:55.804397: End of Request
+
+16:34:57.697415: New Request #32316:34:57.732415: Initial Response: Welcome to Telnet!
+16:34:57.736415: Send Message: Status16:34:57.758414: Message Response: x1AVx1
+16:34:57.799414: Message Response: x5AVx2
+16:34:57.803413: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:57.806415: End of Request
+
+16:34:59.698208: New Request #32416:34:59.725288: Initial Response: Welcome to Telnet!
+16:34:59.730271: Send Message: Status16:34:59.755272: Message Response: x1AVx1
+16:34:59.797332: Message Response: x5AVx2
+16:34:59.801399: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:34:59.804392: End of Request
+
+16:35:01.698498: New Request #32516:35:01.744583: Initial Response: Welcome to Telnet!
+16:35:01.748562: Send Message: Status16:35:01.767819: Message Response: x1AVx1
+16:35:01.809199: Message Response: x5AVx2
+16:35:01.814168: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:01.817167: End of Request
+
+16:35:03.698727: New Request #32616:35:03.733789: Initial Response: Welcome to Telnet!
+16:35:03.737790: Send Message: Status16:35:03.757728: Message Response: x1AVx1
+16:35:03.799038: Message Response: x5AVx2
+16:35:03.804039: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:03.807039: End of Request
+
+16:35:05.699324: New Request #32716:35:05.730322: Initial Response: Welcome to Telnet!
+16:35:05.734323: Send Message: Status16:35:05.756978: Message Response: x1AVx1
+16:35:05.798027: Message Response: x5AVx2
+16:35:05.802027: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:05.805028: End of Request
+
+16:35:07.699786: New Request #32816:35:07.733862: Initial Response: Welcome to Telnet!
+16:35:07.737847: Send Message: Status16:35:07.760786: Message Response: x1AVx1
+16:35:07.801316: Message Response: x5AVx2
+16:35:07.806278: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:07.809215: End of Request
+
+16:35:09.700173: New Request #32916:35:09.735252: Initial Response: Welcome to Telnet!
+16:35:09.740236: Send Message: Status16:35:09.761336: Message Response: x1AVx1
+16:35:09.800531: Message Response: x5AVx2
+16:35:09.805526: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:09.808526: End of Request
+
+16:35:11.700938: New Request #33016:35:11.735015: Initial Response: Welcome to Telnet!
+16:35:11.739000: Send Message: Status16:35:11.761026: Message Response: x1AVx1
+16:35:11.801384: Message Response: x5AVx2
+16:35:11.806347: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:11.809348: End of Request
+
+16:35:13.701879: New Request #33116:35:13.736973: Initial Response: Welcome to Telnet!
+16:35:13.741961: Send Message: Status16:35:13.769146: Message Response: x1AVx1
+16:35:13.811113: Message Response: x5AVx2
+16:35:13.816132: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:13.819109: End of Request
+
+16:35:15.702605: New Request #33216:35:15.731606: Initial Response: Welcome to Telnet!
+16:35:15.735607: Send Message: Status16:35:15.765066: Message Response: x1AVx1
+16:35:15.804970: Message Response: x5AVx2
+16:35:15.808969: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:15.811969: End of Request
+
+16:35:17.702703: New Request #33316:35:17.736709: Initial Response: Welcome to Telnet!
+16:35:17.740767: Send Message: Status16:35:17.761705: Message Response: x1AVx1
+16:35:17.803423: Message Response: x5AVx2
+16:35:17.808321: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:17.811321: End of Request
+
+16:35:19.703507: New Request #33416:35:19.731603: Initial Response: Welcome to Telnet!
+16:35:19.735589: Send Message: Status16:35:19.762681: Message Response: x1AVx1
+16:35:19.804101: Message Response: x5AVx2
+16:35:19.808069: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:19.811132: End of Request
+
+16:35:21.703927: New Request #33516:35:21.731004: Initial Response: Welcome to Telnet!
+16:35:21.735930: Send Message: Status16:35:21.763078: Message Response: x1AVx1
+16:35:21.804040: Message Response: x5AVx2
+16:35:21.809004: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:21.811944: End of Request
+
+16:35:23.704294: New Request #33616:35:23.737393: Initial Response: Welcome to Telnet!
+16:35:23.741380: Send Message: Status16:35:23.761856: Message Response: x1AVx1
+16:35:23.801688: Message Response: x5AVx2
+16:35:23.806767: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:23.809758: End of Request
+
+16:35:25.705038: New Request #33716:35:25.738043: Initial Response: Welcome to Telnet!
+16:35:25.741040: Send Message: Status16:35:25.760787: Message Response: x1AVx1
+16:35:25.803320: Message Response: x5AVx2
+16:35:25.807324: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:25.810322: End of Request
+
+16:35:27.705081: New Request #33816:35:27.733087: Initial Response: Welcome to Telnet!
+16:35:27.737144: Send Message: Status16:35:27.757175: Message Response: x1AVx1
+16:35:27.798402: Message Response: x5AVx2
+16:35:27.803367: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:27.806370: End of Request
+
+16:35:29.705764: New Request #33916:35:29.732764: Initial Response: Welcome to Telnet!
+16:35:29.736765: Send Message: Status16:35:29.780275: Message Response: x1AVx1
+16:35:29.823276: Message Response: x5AVx2
+16:35:29.827273: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:29.830274: End of Request
+
+16:35:31.706197: New Request #34016:35:31.741699: Initial Response: Welcome to Telnet!
+16:35:31.745697: Send Message: Status16:35:31.765696: Message Response: x1AVx1
+16:35:31.806543: Message Response: x5AVx2
+16:35:31.810541: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:31.813540: End of Request
+
+16:35:33.706198: New Request #34116:35:33.742201: Initial Response: Welcome to Telnet!
+16:35:33.746262: Send Message: Status16:35:33.767142: Message Response: x1AVx1
+16:35:33.806683: Message Response: x5AVx2
+16:35:33.811741: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:33.814675: End of Request
+
+16:35:35.707020: New Request #34216:35:35.737021: Initial Response: Welcome to Telnet!
+16:35:35.741022: Send Message: Status16:35:35.761588: Message Response: x1AVx1
+16:35:35.802893: Message Response: x5AVx2
+16:35:35.806895: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:35.809935: End of Request
+
+16:35:37.707232: New Request #34316:35:37.742238: Initial Response: Welcome to Telnet!
+16:35:37.746326: Send Message: Status16:35:37.793680: Message Response: x1AVx1
+16:35:37.834576: Message Response: x5AVx2
+16:35:37.839553: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:37.842561: End of Request
+
+16:35:39.707251: New Request #34416:35:39.742340: Initial Response: Welcome to Telnet!
+16:35:39.746322: Send Message: Status16:35:39.767143: Message Response: x1AVx1
+16:35:39.808242: Message Response: x5AVx2
+16:35:39.812242: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:39.815302: End of Request
+
+16:35:41.708023: New Request #34516:35:41.740100: Initial Response: Welcome to Telnet!
+16:35:41.745024: Send Message: Status16:35:41.767408: Message Response: x1AVx1
+16:35:41.807785: Message Response: x5AVx2
+16:35:41.812839: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:41.814902: End of Request
+
+16:35:43.708559: New Request #34616:35:43.743630: Initial Response: Welcome to Telnet!
+16:35:43.748631: Send Message: Status16:35:43.768939: Message Response: x1AVx1
+16:35:43.809387: Message Response: x5AVx2
+16:35:43.814387: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:43.817322: End of Request
+
+16:35:45.708586: New Request #34716:35:45.745587: Initial Response: Welcome to Telnet!
+16:35:45.749587: Send Message: Status16:35:45.769278: Message Response: x1AVx1
+16:35:45.810279: Message Response: x5AVx2
+16:35:45.814277: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:45.817277: End of Request
+
+16:35:47.708698: New Request #34816:35:47.742216: Initial Response: Welcome to Telnet!
+16:35:47.746278: Send Message: Status16:35:47.774183: Message Response: x1AVx1
+16:35:47.815365: Message Response: x5AVx2
+16:35:47.820300: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:47.823300: End of Request
+
+16:35:49.709539: New Request #34916:35:49.738639: Initial Response: Welcome to Telnet!
+16:35:49.742626: Send Message: Status16:35:49.762738: Message Response: x1AVx1
+16:35:49.802680: Message Response: x5AVx2
+16:35:49.807747: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:49.810750: End of Request
+
+16:35:51.710365: New Request #35016:35:51.739443: Initial Response: Welcome to Telnet!
+16:35:51.743427: Send Message: Status16:35:51.771786: Message Response: x1AVx1
+16:35:51.812172: Message Response: x5AVx2
+16:35:51.817230: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:51.820230: End of Request
+
+16:35:53.710415: New Request #35116:35:53.737486: Initial Response: Welcome to Telnet!
+16:35:53.741475: Send Message: Status16:35:53.770418: Message Response: x1AVx1
+16:35:53.811134: Message Response: x5AVx2
+16:35:53.816055: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:53.819113: End of Request
+
+16:35:55.711068: New Request #35216:35:55.738073: Initial Response: Welcome to Telnet!
+16:35:55.741592: Send Message: Status16:35:55.770788: Message Response: x1AVx1
+16:35:55.811788: Message Response: x5AVx2
+16:35:55.815785: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:55.818786: End of Request
+
+16:35:57.711113: New Request #35316:35:57.739189: Initial Response: Welcome to Telnet!
+16:35:57.743177: Send Message: Status16:35:57.770201: Message Response: x1AVx1
+16:35:57.811349: Message Response: x5AVx2
+16:35:57.816263: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:57.819263: End of Request
+
+16:35:59.711988: New Request #35416:35:59.748066: Initial Response: Welcome to Telnet!
+16:35:59.753050: Send Message: Status16:35:59.773068: Message Response: x1AVx1
+16:35:59.816024: Message Response: x5AVx2
+16:35:59.820083: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:35:59.823084: End of Request
+
+16:36:01.712526: New Request #35516:36:01.751532: Initial Response: Welcome to Telnet!
+16:36:01.755526: Send Message: Status16:36:01.774825: Message Response: x1AVx1
+16:36:01.815223: Message Response: x5AVx2
+16:36:01.820161: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:01.823159: End of Request
+
+16:36:03.713322: New Request #35616:36:03.747399: Initial Response: Welcome to Telnet!
+16:36:03.751321: Send Message: Status16:36:03.775338: Message Response: x1AVx1
+16:36:03.824317: Message Response: x5AVx2
+16:36:03.829348: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:03.831383: End of Request
+
+16:36:05.713460: New Request #35716:36:05.747460: Initial Response: Welcome to Telnet!
+16:36:05.751836: Send Message: Status16:36:05.773404: Message Response: x1AVx1
+16:36:05.814472: Message Response: x5AVx2
+16:36:05.819405: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:05.821403: End of Request
+
+16:36:07.714065: New Request #35816:36:07.746144: Initial Response: Welcome to Telnet!
+16:36:07.750128: Send Message: Status16:36:07.770404: Message Response: x1AVx1
+16:36:07.810696: Message Response: x5AVx2
+16:36:07.814760: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:07.817759: End of Request
+
+16:36:09.714837: New Request #35916:36:09.742844: Initial Response: Welcome to Telnet!
+16:36:09.747902: Send Message: Status16:36:09.773572: Message Response: x1AVx1
+16:36:09.814272: Message Response: x5AVx2
+16:36:09.819227: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:09.822232: End of Request
+
+16:36:11.715340: New Request #36016:36:11.751432: Initial Response: Welcome to Telnet!
+16:36:11.755340: Send Message: Status16:36:11.774406: Message Response: x1AVx1
+16:36:11.815345: Message Response: x5AVx2
+16:36:11.820362: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:11.822404: End of Request
+
+16:36:13.715691: New Request #36116:36:13.750769: Initial Response: Welcome to Telnet!
+16:36:13.754752: Send Message: Status16:36:13.773454: Message Response: x1AVx1
+16:36:13.814802: Message Response: x5AVx2
+16:36:13.819798: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:13.822860: End of Request
+
+16:36:15.716087: New Request #36216:36:15.744088: Initial Response: Welcome to Telnet!
+16:36:15.748089: Send Message: Status16:36:15.769234: Message Response: x1AVx1
+16:36:15.811236: Message Response: x5AVx2
+16:36:15.815234: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:15.818237: End of Request
+
+16:36:17.716383: New Request #36316:36:17.745408: Initial Response: Welcome to Telnet!
+16:36:17.749449: Send Message: Status16:36:17.785032: Message Response: x1AVx1
+16:36:17.826011: Message Response: x5AVx2
+16:36:17.830949: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:17.833950: End of Request
+
+16:36:19.717257: New Request #36416:36:19.745369: Initial Response: Welcome to Telnet!
+16:36:19.749433: Send Message: Status16:36:19.776406: Message Response: x1AVx1
+16:36:19.817419: Message Response: x5AVx2
+16:36:19.822394: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:19.825381: End of Request
+
+16:36:21.717990: New Request #36516:36:21.746066: Initial Response: Welcome to Telnet!
+16:36:21.751052: Send Message: Status16:36:21.776800: Message Response: x1AVx1
+16:36:21.817431: Message Response: x5AVx2
+16:36:21.822393: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:21.825328: End of Request
+
+16:36:23.718569: New Request #36616:36:23.753660: Initial Response: Welcome to Telnet!
+16:36:23.757571: Send Message: Status16:36:23.778650: Message Response: x1AVx1
+16:36:23.818673: Message Response: x5AVx2
+16:36:23.823688: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:23.826689: End of Request
+
+16:36:25.718573: New Request #36716:36:25.757330: Initial Response: Welcome to Telnet!
+16:36:25.761329: Send Message: Status16:36:25.788808: Message Response: x1AVx1
+16:36:25.830981: Message Response: x5AVx2
+16:36:25.835981: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:25.837981: End of Request
+
+16:36:27.718761: New Request #36816:36:27.752848: Initial Response: Welcome to Telnet!
+16:36:27.756822: Send Message: Status16:36:27.776406: Message Response: x1AVx1
+16:36:27.817383: Message Response: x5AVx2
+16:36:27.822382: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:27.825386: End of Request
+
+16:36:29.719761: New Request #36916:36:29.750840: Initial Response: Welcome to Telnet!
+16:36:29.756823: Send Message: Status16:36:29.776665: Message Response: x1AVx1
+16:36:29.816821: Message Response: x5AVx2
+16:36:29.821893: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:29.824891: End of Request
+
+16:36:31.720580: New Request #37016:36:31.754584: Initial Response: Welcome to Telnet!
+16:36:31.758581: Send Message: Status16:36:31.778711: Message Response: x1AVx1
+16:36:31.819049: Message Response: x5AVx2
+16:36:31.824050: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:31.825988: End of Request
+
+16:36:33.720742: New Request #37116:36:33.748750: Initial Response: Welcome to Telnet!
+16:36:33.752804: Send Message: Status16:36:33.773805: Message Response: x1AVx1
+16:36:33.814433: Message Response: x5AVx2
+16:36:33.819390: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:33.822393: End of Request
+
+16:36:35.720778: New Request #37216:36:35.747290: Initial Response: Welcome to Telnet!
+16:36:35.751777: Send Message: Status16:36:35.772013: Message Response: x1AVx1
+16:36:35.813443: Message Response: x5AVx2
+16:36:35.817446: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:35.820446: End of Request
+
+16:36:37.721162: New Request #37316:36:37.752240: Initial Response: Welcome to Telnet!
+16:36:37.756226: Send Message: Status16:36:37.792163: Message Response: x1AVx1
+16:36:37.833329: Message Response: x5AVx2
+16:36:37.838328: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:37.841326: End of Request
+
+16:36:39.721608: New Request #37416:36:39.749612: Initial Response: Welcome to Telnet!
+16:36:39.753608: Send Message: Status16:36:39.778798: Message Response: x1AVx1
+16:36:39.819430: Message Response: x5AVx2
+16:36:39.824327: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:39.827390: End of Request
+
+16:36:41.722024: New Request #37516:36:41.747101: Initial Response: Welcome to Telnet!
+16:36:41.751088: Send Message: Status16:36:41.770103: Message Response: x1AVx1
+16:36:41.811285: Message Response: x5AVx2
+16:36:41.816202: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:41.819201: End of Request
+
+16:36:43.722224: New Request #37616:36:43.749400: Initial Response: Welcome to Telnet!
+16:36:43.754387: Send Message: Status16:36:43.781323: Message Response: x1AVx1
+16:36:43.824356: Message Response: x5AVx2
+16:36:43.828415: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:43.831414: End of Request
+
+16:36:45.722622: New Request #37716:36:45.755876: Initial Response: Welcome to Telnet!
+16:36:45.760876: Send Message: Status16:36:45.780006: Message Response: x1AVx1
+16:36:45.821007: Message Response: x5AVx2
+16:36:45.825007: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:45.828008: End of Request
+
+16:36:47.723250: New Request #37816:36:48.237889: ERROR: timed out16:36:48.241871: Send Message: Status16:36:48.745244: ERROR: timed out16:36:49.249511: ERROR: timed out16:36:49.253481: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:49.256408: End of Request
+
+16:36:49.723499: New Request #37916:36:50.237589: ERROR: timed out16:36:50.241573: Send Message: Status16:36:50.744634: ERROR: timed out16:36:51.248716: ERROR: timed out16:36:51.252642: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:51.255716: End of Request
+
+16:36:51.723544: New Request #38016:36:52.237750: ERROR: timed out16:36:52.240748: Send Message: Status16:36:52.744183: ERROR: timed out16:36:53.248466: ERROR: timed out16:36:53.252434: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:53.256434: End of Request
+
+16:36:53.724455: New Request #38116:36:54.239496: ERROR: timed out16:36:54.243633: Send Message: Status16:36:54.747872: ERROR: timed out16:36:55.252634: ERROR: timed out16:36:55.256723: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:55.259796: End of Request
+
+16:36:55.724998: New Request #38216:36:56.240473: ERROR: timed out16:36:56.245445: Send Message: Status16:36:56.749225: ERROR: timed out16:36:57.253440: ERROR: timed out16:36:57.257410: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:57.260410: End of Request
+
+16:36:57.725533: New Request #38316:36:57.744482: Initial Response: Full Connections.
+16:36:57.748470: Send Message: Status16:36:57.751405: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:36:57.754405: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:36:57.757405: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:57.760405: End of Request
+
+16:36:59.726399: New Request #38416:36:59.750403: Initial Response: Full Connections.
+16:36:59.754399: Send Message: Status16:36:59.757399: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:36:59.760399: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:36:59.763462: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:36:59.766462: End of Request
+
+16:37:01.727284: New Request #38516:37:01.754363: Initial Response: Full Connections.
+16:37:01.758349: Send Message: Status16:37:01.761350: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:01.764349: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:01.768365: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:01.770349: End of Request
+
+16:37:03.727500: New Request #38616:37:03.744579: Initial Response: Full Connections.
+16:37:03.747564: Send Message: Status16:37:03.750565: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:03.753562: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:03.756503: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:03.759501: End of Request
+
+16:37:05.728472: New Request #38716:37:05.746469: Initial Response: Full Connections.
+16:37:05.749466: Send Message: Status16:37:05.751690: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:05.754731: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:05.756731: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:05.759733: End of Request
+
+16:37:07.729192: New Request #38816:37:07.747369: Initial Response: Full Connections.
+16:37:07.751354: Send Message: Status16:37:07.754356: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:07.757369: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:07.761353: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:07.764354: End of Request
+
+16:37:09.729999: New Request #38916:37:09.756096: Initial Response: Full Connections.
+16:37:09.761080: Send Message: Status16:37:09.764081: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:09.767024: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:09.770082: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:09.773081: End of Request
+
+16:37:11.730093: New Request #39016:37:11.749171: Initial Response: Full Connections.
+16:37:11.753155: Send Message: Status16:37:11.756093: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:11.759092: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:11.762093: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:11.765154: End of Request
+
+16:37:13.731050: New Request #39116:37:13.750054: Initial Response: Full Connections.
+16:37:13.753051: Send Message: Status16:37:13.756051: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:13.759050: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:13.761051: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:13.764050: End of Request
+
+16:37:15.731344: New Request #39216:37:15.763093: Initial Response: Full Connections.
+16:37:15.767261: Send Message: Status16:37:15.770259: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:15.773259: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:15.777259: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:15.780259: End of Request
+
+16:37:17.731464: New Request #39316:37:17.760468: Initial Response: Full Connections.
+16:37:17.764464: Send Message: Status16:37:17.767464: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:17.770464: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:17.773464: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:17.776465: End of Request
+
+16:37:19.732277: New Request #39416:37:19.750301: Initial Response: Full Connections.
+16:37:19.753297: Send Message: Status16:37:19.756296: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:19.758296: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:19.761296: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:19.764296: End of Request
+
+16:37:21.732750: New Request #39516:37:21.767755: Initial Response: Full Connections.
+16:37:21.772752: Send Message: Status16:37:21.775752: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:21.778753: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:21.782752: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:21.784815: End of Request
+
+16:37:23.733577: New Request #39616:37:23.749577: Initial Response: Full Connections.
+16:37:23.752576: Send Message: Status16:37:23.755576: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:23.758574: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:23.761574: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:23.764574: End of Request
+
+16:37:25.734467: New Request #39716:37:25.757531: Initial Response: Full Connections.
+16:37:25.761530: Send Message: Status16:37:25.763529: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:25.766005: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:25.769003: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:25.772003: End of Request
+
+16:37:27.734935: New Request #39816:37:27.752939: Initial Response: Full Connections.
+16:37:27.755935: Send Message: Status16:37:27.758935: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:27.761935: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:27.764935: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:27.767935: End of Request
+
+16:37:29.735693: New Request #39916:37:29.754698: Initial Response: Full Connections.
+16:37:29.758694: Send Message: Status16:37:29.761694: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:29.764703: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:29.767693: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:29.770694: End of Request
+
+16:37:31.736282: New Request #40016:37:31.755287: Initial Response: Full Connections.
+16:37:31.760283: Send Message: Status16:37:31.763284: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:31.765283: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:31.769283: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:31.772283: End of Request
+
+16:37:33.736952: New Request #40116:37:33.767956: Initial Response: Full Connections.
+16:37:33.772953: Send Message: Status16:37:33.775953: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:33.778953: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:33.781953: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:33.784953: End of Request
+
+16:37:35.737925: New Request #40216:37:35.761918: Initial Response: Full Connections.
+16:37:35.765431: Send Message: Status16:37:35.768432: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:35.771431: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:35.774432: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:35.777431: End of Request
+
+16:37:37.738593: New Request #40316:37:38.289375: Initial Response: Full Connections.
+16:37:38.294373: Send Message: Status16:37:38.297441: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:38.301372: ERROR: [WinError 10053] An established connection was aborted by the software in your host machine16:37:38.304444: Socket verified to be closed: [WinError 10038] An operation was attempted on something that is not a socket16:37:38.307450: End of Request
+
+
